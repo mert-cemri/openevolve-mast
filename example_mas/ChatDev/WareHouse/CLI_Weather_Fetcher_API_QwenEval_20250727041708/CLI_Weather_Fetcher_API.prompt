@@ -1,0 +1,1 @@
+Write a CLI tool that fetches and displays the current weather for a given city using a public weather API (e.g., OpenWeatherMap). The user provides the city name.

@@ -1,0 +1,6 @@
+# Specify the required Python version
+python_version >= 3.6
+
+# Note: tkinter is part of the standard library, but ensure it's available
+# On Linux, it may need to be installed separately using the package manager
+# Example for Ubuntu: sudo apt-get install python3-tk

@@ -1,0 +1,1 @@
+python main.py yourfile.mp3 --title "New Title" --artist "New Artist" --album "New Album" --year "2023"

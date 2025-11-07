@@ -1,0 +1,1 @@
+Create a CLI tool to generate a QR code from a given text string or URL. Output the QR code as an ASCII art representation in the terminal or save it as an image file.

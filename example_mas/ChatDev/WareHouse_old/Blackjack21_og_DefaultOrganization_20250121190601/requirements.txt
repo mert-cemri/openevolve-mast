@@ -1,0 +1,2 @@
+# Python version requirement (if needed)
+# python_version >= "3.6"

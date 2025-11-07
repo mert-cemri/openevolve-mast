@@ -1,0 +1,1 @@
+Write a CLI program that searches for a given string/pattern within all text files in a specified directory and its subdirectories (similar to `grep -r`). Display matching lines and filenames.

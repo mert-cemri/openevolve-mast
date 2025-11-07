@@ -1,0 +1,1 @@
+Write a simple CLI HTTP server that serves static files (HTML, CSS, JS, images) from a specified local directory. Listens on a configurable port.

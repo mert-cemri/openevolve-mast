@@ -1,0 +1,2 @@
+# This project uses tkinter for GUI, which is included in the standard Python library.
+# No external dependencies are required.

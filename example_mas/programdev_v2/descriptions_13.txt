@@ -1,0 +1,1 @@
+Create a CLI tool that displays a random quote from a predefined list of quotes stored in a text file. Each execution should show a different quote.

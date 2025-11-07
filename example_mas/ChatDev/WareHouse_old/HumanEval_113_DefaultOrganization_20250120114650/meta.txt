@@ -1,0 +1,48 @@
+Task:
+
+            Write the software code that is neccessary to solve the following task or fix the following code. In the main.py file, only write the necessary code, nothing more. Do not implement a GUI interface or anything redundant. make sure the code piece works as desired.
+            
+def odd_count(lst):
+    """Given a list of strings, where each string consists of only digits, return a list.
+    Each element i of the output should be "the number of odd elements in the
+    string i of the input." where all the i's should be replaced by the number
+    of odd digits in the i'th string of the input.
+
+    >>> odd_count(['1234567'])
+    ["the number of odd elements 4n the str4ng 4 of the 4nput."]
+    >>> odd_count(['3',"11111111"])
+    ["the number of odd elements 1n the str1ng 1 of the 1nput.",
+     "the number of odd elements 8n the str8ng 8 of the 8nput."]
+    """
+
+
+Config:
+ChatEnvConfig.with_memory: False
+ChatEnvConfig.clear_structure: True
+ChatEnvConfig.git_management: False
+ChatEnvConfig.gui_design: True
+ChatEnvConfig.incremental_develop: False
+ChatEnvConfig.background_prompt: ChatDev is a software company powered by multiple intelligent agents, such as chief executive officer, chief human resources officer, chief product officer, chief technology officer, etc, with a multi-agent organizational structure and the mission of 'changing the digital world through programming'.
+
+
+Roster:
+Chief Executive Officer, Counselor, Chief Human Resource Officer, Chief Product Officer, Chief Technology Officer, Programmer, Code Reviewer, Software Test Engineer, Chief Creative Officer
+
+Modality:
+application
+
+Ideas:
+
+
+Language:
+ Python *
+
+Code_Version:
+4.0
+
+Proposed_images:
+0
+
+Incorporated_images:
+0
+

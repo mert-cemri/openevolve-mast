@@ -1,0 +1,15 @@
+
+            Write the software code that is neccessary to solve the following task or fix the following code. In the main.py file, only write the necessary code, nothing more. Do not implement a GUI interface or anything redundant. make sure the code piece works as desired.
+            
+def is_bored(S):
+    """
+    You'll be given a string of words, and your task is to count the number
+    of boredoms. A boredom is a sentence that starts with the word "I".
+    Sentences are delimited by '.', '?' or '!'.
+   
+    For example:
+    >>> is_bored("Hello world")
+    0
+    >>> is_bored("The sky is blue. The sun is shining. I love this weather")
+    1
+    """

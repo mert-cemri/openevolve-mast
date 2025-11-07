@@ -1,0 +1,1 @@
+Create a CLI tool to look up IP address information (e.g., geolocation, ISP) using a public IP geolocation API (e.g., ip-api.com). The user provides an IP address.

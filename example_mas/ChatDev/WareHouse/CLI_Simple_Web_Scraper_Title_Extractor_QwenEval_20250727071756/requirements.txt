@@ -1,0 +1,6 @@
+
+This file will ensure that the necessary dependencies are installed for the CLI web scraper to function correctly. 
+
+Let's move forward with this solution. 
+
+Final `requirements.txt` file:

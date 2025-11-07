@@ -1,0 +1,49 @@
+'''
+DOCSTRING: Main HTML structure for UC Berkeley's landing page.
+'''
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UC Berkeley</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>UC Berkeley</h1>
+        <nav role="navigation">
+            <ul>
+                <li><a href="#admissions" aria-label="Admissions">Admissions</a></li>
+                <li><a href="#academics" aria-label="Academics">Academics</a></li>
+                <li><a href="#research" aria-label="Research">Research</a></li>
+                <li><a href="#news" aria-label="News and Events">News & Events</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="admissions">
+            <h2>Admissions</h2>
+            <p>Information about admissions...</p>
+        </section>
+        <section id="academics">
+            <h2>Academics</h2>
+            <p>Information about academics...</p>
+        </section>
+        <section id="research">
+            <h2>Research</h2>
+            <p>Information about research...</p>
+        </section>
+        <section id="news">
+            <h2>News & Events</h2>
+            <div id="news-container"></div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 UC Berkeley</p>
+    </footer>
+    <script src="script.js"></script>
+    <script src="accessibility.js"></script>
+    <script src="news.js"></script>
+</body>
+</html>

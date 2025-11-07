@@ -1,0 +1,18 @@
+
+            Write the software code that is neccessary to solve the following task or fix the following code. In the main.py file, only write the necessary code, nothing more. Do not implement a GUI interface or anything redundant. make sure the code piece works as desired.
+            
+
+def prime_fib(n: int):
+    """
+    prime_fib returns n-th number that is a Fibonacci number and it's also prime.
+    >>> prime_fib(1)
+    2
+    >>> prime_fib(2)
+    3
+    >>> prime_fib(3)
+    5
+    >>> prime_fib(4)
+    13
+    >>> prime_fib(5)
+    89
+    """

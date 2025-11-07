@@ -1,0 +1,3 @@
+# requirements.txt
+# No third-party libraries are required for the current implementation.
+# If lxml or any other third-party libraries are used in the future, they can be added here.

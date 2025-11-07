@@ -1,0 +1,1 @@
+Develop a CLI utility that generates a visual tree structure of a given directory. The output should represent directories and files, indenting subdirectories and their contents. Allow specifying a maximum depth for the tree.

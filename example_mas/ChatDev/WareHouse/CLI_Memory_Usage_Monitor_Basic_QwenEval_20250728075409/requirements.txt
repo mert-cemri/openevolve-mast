@@ -1,0 +1,2 @@
+# No external packages are required for this project.
+# Consider using psutil for simplified access to system and process memory usage information.

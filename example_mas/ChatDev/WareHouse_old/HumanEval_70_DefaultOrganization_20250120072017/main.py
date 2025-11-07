@@ -1,0 +1,22 @@
+'''
+Given list of integers, return list in strange order.
+Strange sorting, is when you start with the minimum value,
+then maximum of the remaining integers, then minimum and so on.
+Examples:
+strange_sort_list([1, 2, 3, 4]) == [1, 4, 2, 3]
+strange_sort_list([5, 5, 5, 5]) == [5, 5, 5, 5]
+strange_sort_list([]) == []
+'''
+def strange_sort_list(lst):
+    result = []
+    while lst:
+        result.append(min(lst))
+        lst.remove(min(lst))
+        if lst:
+            result.append(max(lst))
+            lst.remove(max(lst))
+    return result
+# Example usage:
+# print(strange_sort_list([1, 2, 3, 4]))  # Output: [1, 4, 2, 3]
+# print(strange_sort_list([5, 5, 5, 5]))  # Output: [5, 5, 5, 5]
+# print(strange_sort_list([]))            # Output: []

@@ -1,0 +1,5 @@
+
+This file can be added to the project directory to make it clear that no additional packages are needed.
+
+To create this file, you can use the following command in your terminal:
+

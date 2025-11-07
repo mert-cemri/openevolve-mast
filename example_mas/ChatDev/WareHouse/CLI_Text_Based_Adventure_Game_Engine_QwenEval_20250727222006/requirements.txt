@@ -1,0 +1,3 @@
+
+This file can be placed in the root directory of the project, alongside the other Python files. When someone wants to run the project, they can use the following command to install the required dependencies:
+

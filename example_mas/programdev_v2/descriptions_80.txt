@@ -1,0 +1,1 @@
+Write a CLI book library manager. Users can add books (title, author, ISBN), list all books, search by title or author, and mark books as read/unread. Store data locally.

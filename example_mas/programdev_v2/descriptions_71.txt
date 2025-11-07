@@ -1,0 +1,1 @@
+Build a CLI tool to convert a JSON file to a CSV file. Handle nested JSON by flattening or allowing user to specify fields. User provides input JSON and output CSV paths.

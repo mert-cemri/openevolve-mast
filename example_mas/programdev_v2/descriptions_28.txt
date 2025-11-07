@@ -1,0 +1,1 @@
+Write a simple CLI web scraper that takes a URL and extracts and prints the title of the web page. Handle basic HTTP requests.

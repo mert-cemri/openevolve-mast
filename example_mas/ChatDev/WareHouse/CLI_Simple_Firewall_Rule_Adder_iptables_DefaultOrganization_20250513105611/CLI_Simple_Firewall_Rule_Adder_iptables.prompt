@@ -1,0 +1,1 @@
+Build a CLI utility that provides a simplified interface to add basic firewall rules using `iptables` (Linux). For example, allow or block a specific port. Requires sudo privileges.

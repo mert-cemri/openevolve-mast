@@ -1,0 +1,5 @@
+
+However, as mentioned, it's generally a good practice to specify a specific version to avoid potential issues with breaking changes in newer versions. Therefore, I recommend using the first version of the `requirements.txt` file.
+
+Here is the final `requirements.txt` file:
+

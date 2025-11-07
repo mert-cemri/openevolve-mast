@@ -1,0 +1,3 @@
+apple: A fruit that is typically red, green, or yellow.
+banana: A long curved fruit that grows in clusters and has soft pulpy flesh and yellow skin when ripe.
+carrot: A root vegetable that is typically orange, though purple, red, white, and yellow varieties also exist.

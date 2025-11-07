@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CLI File Renamer</title>
+    <script src="renamer.js"></script>
+</head>
+<body>
+    <h1>CLI File Renamer</h1>
+    <form>
+        <label for="pattern">Pattern:</label>
+        <input type="text" id="pattern" name="pattern"><br><br>
+        <label for="directory">Directory:</label>
+        <input type="text" id="directory" name="directory"><br><br>
+        <input type="submit" value="Rename Files">
+    </form>
+    <script>
+        document.getElementById("pattern").addEventListener("input", function() {
+            document.getElementById("directory").value = renameFiles(document.getElementById("pattern").value, document.getElementById("directory").value);
+        });
+    </script>
+</body>
+</html>

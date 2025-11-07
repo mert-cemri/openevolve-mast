@@ -1,0 +1,8 @@
+
+### Explanation
+
+- **Pillow**: Specified as `Pillow>=9.0.0,<10.0.0` to allow any version from 9.0.0 up to, but not including, 10.0.0. This ensures compatibility with the latest features while avoiding breaking changes in version 10.
+- **ExifRead**: Specified as `ExifRead>=2.3.2,<3.0.0` to allow any version from 2.3.2 up to, but not including, 3.0.0. This ensures compatibility with the latest features while avoiding breaking changes in version 3.
+
+### Final `requirements.txt`
+

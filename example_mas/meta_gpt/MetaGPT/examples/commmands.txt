@@ -1,0 +1,2 @@
+python3 examples/build_customized_multi_agents.py --idea "write a function that calculates the product of a list"
+python3 examples/build_customized_multi_agents.py --idea "Create a 2048 game"

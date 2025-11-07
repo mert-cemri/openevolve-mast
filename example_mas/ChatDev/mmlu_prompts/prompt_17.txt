@@ -1,0 +1,12 @@
+The following are multiple choice questions (with answers) about clinical_knowledge. Think step by step and then output the answer in the format of "The answer is (X)" at the end. X is the index of the answer (either 0, 1, 2, or 3) 
+
+Question: The key attribute in successful marathon running is:
+
+0. strength.
+1. power.
+2. stride length.
+3. stamina.
+
+Answer: 
+
+Correct answer index: 3

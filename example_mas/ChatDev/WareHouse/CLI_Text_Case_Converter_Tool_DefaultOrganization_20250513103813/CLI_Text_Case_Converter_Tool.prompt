@@ -1,0 +1,1 @@
+Write a CLI utility to convert text to various cases: uppercase, lowercase, title case, sentence case. The tool takes a string as input or reads from a file.

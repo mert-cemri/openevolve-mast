@@ -1,0 +1,13 @@
+
+            Write the software code that is neccessary to solve the following task or fix the following code. In the main.py file, only write the necessary code, nothing more. Do not implement a GUI interface or anything redundant. make sure the code piece works as desired.
+            
+def split_words(txt):
+    '''
+    Given a string of words, return a list of words split on whitespace, if no whitespaces exists in the text you
+    should split on commas ',' if no commas exists you should return the number of lower-case letters with odd order in the
+    alphabet, ord('a') = 0, ord('b') = 1, ... ord('z') = 25
+    Examples
+    split_words("Hello world!") ➞ ["Hello", "world!"]
+    split_words("Hello,world!") ➞ ["Hello", "world!"]
+    split_words("abcdef") == 3 
+    '''

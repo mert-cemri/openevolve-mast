@@ -1,0 +1,5 @@
+
+This specifies that any version of `requests` from 2.25.1 up to, but not including, 3.0.0 can be installed. This approach allows for bug fixes and minor improvements while ensuring that the project remains compatible with the `requests` library.
+
+Given the context and the need for consistency, I would recommend the first approach with the exact version:
+

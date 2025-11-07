@@ -1,0 +1,1 @@
+Develop a basic CLI Docker container manager. List running/all containers, start/stop containers by ID/name, and view logs of a container. (Assumes Docker is installed and user has permissions).

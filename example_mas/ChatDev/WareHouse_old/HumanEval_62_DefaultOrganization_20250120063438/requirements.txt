@@ -1,0 +1,2 @@
+# Specify Python version if needed
+python>=3.6

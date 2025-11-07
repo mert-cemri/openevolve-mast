@@ -1,0 +1,1 @@
+CLI_Code_Snippet_Manager

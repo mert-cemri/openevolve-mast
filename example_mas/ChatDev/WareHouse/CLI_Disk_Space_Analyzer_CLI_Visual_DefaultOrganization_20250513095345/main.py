@@ -1,0 +1,2 @@
+- `<directory>`: The directory you want to analyze.
+- `-n NUMBER`: (Optional) The number of largest items to display. Default is 10.

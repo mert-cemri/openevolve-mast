@@ -1,0 +1,6 @@
+# requirements.txt
+# This file lists the external dependencies required for the Text Converter utility.
+# To install these dependencies, run the following command:
+# pip install -r requirements.txt
+
+nltk>=3.6.2

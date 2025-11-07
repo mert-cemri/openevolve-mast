@@ -1,0 +1,20 @@
+'''
+This module contains the function how_many_times which counts the number of times a substring appears in a string, including overlapping occurrences.
+'''
+def how_many_times(string: str, substring: str) -> int:
+    """ 
+    Find how many times a given substring can be found in the original string. Count overlapping cases.
+    >>> how_many_times('', 'a')
+    0
+    >>> how_many_times('aaa', 'a')
+    3
+    >>> how_many_times('aaaa', 'aa')
+    3
+    """
+    count = 0
+    start = 0
+    while start <= len(string) - len(substring):
+        if string[start:start + len(substring)] == substring:
+            count += 1
+        start += 1
+    return count

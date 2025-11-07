@@ -1,0 +1,1 @@
+Write a CLI utility to change file permissions using numeric (octal) notation (e.g., 755, 644) similar to `chmod`. The user provides the permission mode and file/directory path.

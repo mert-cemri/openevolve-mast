@@ -1,0 +1,10 @@
+{
+    "word1": {
+        "synonyms": ["synonym1", "synonym2"],
+        "antonyms": ["antonym1", "antonym2"]
+    },
+    "word2": {
+        "synonyms": ["synonym3", "synonym4"],
+        "antonyms": ["antonym3", "antonym4"]
+    }
+}

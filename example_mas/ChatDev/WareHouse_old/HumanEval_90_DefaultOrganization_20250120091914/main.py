@@ -1,0 +1,21 @@
+'''
+This module contains the function next_smallest which returns the second smallest
+element in a list of integers. If there is no such element, it returns None.
+'''
+def next_smallest(lst):
+    """
+    You are given a list of integers.
+    Write a function next_smallest() that returns the 2nd smallest element of the list.
+    Return None if there is no such element.
+    next_smallest([1, 2, 3, 4, 5]) == 2
+    next_smallest([5, 1, 4, 3, 2]) == 2
+    next_smallest([]) == None
+    next_smallest([1, 1]) == None
+    """
+    # Convert list to a set to remove duplicates, then sort it
+    unique_sorted_lst = sorted(set(lst))
+    # Check if there are at least two unique elements
+    if len(unique_sorted_lst) < 2:
+        return None
+    # Return the second smallest element
+    return unique_sorted_lst[1]

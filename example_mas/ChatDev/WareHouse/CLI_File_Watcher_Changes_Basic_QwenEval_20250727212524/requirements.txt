@@ -1,0 +1,3 @@
+
+However, since the `pip_requirements.txt` file already exists and specifies `watchdog` without a version, I recommend using the following `requirements.txt` file:
+

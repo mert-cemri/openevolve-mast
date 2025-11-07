@@ -1,0 +1,1 @@
+Create a CLI tool to remove duplicate lines from a text file, preserving the order of the first occurrence. Output to a new file or standard output.

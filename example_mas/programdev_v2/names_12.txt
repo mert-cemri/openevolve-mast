@@ -1,0 +1,1 @@
+CLI_Currency_Converter_Static_Rates

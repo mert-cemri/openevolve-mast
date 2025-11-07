@@ -1,0 +1,1 @@
+$ python main.py -p 80 -a allow -s 192.168.1.1 -d 192.168.1.2 -n tcp

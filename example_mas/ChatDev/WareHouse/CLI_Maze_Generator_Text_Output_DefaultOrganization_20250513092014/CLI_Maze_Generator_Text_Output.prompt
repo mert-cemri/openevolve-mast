@@ -1,0 +1,1 @@
+Build a CLI maze generator that outputs a maze as text characters (e.g., '#' for walls, ' ' for paths) to the console. Allow specifying maze dimensions.

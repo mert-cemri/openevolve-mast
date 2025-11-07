@@ -1,0 +1,1 @@
+Develop a simple CLI RSS feed reader. User provides an RSS feed URL, and the tool fetches and displays the latest article titles and links.

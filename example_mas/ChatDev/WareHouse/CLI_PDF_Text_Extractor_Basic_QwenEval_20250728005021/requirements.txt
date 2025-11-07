@@ -1,0 +1,5 @@
+
+This file specifies that the `PyMuPDF` library, version 1.18.0 or higher, is required for the project to run properly.
+
+To ensure that the project is set up correctly, we should also update the `pdf_extractor.py` file to use `PyMuPDF` instead of `pdftotext`. Here is the updated `pdf_extractor.py` file:
+

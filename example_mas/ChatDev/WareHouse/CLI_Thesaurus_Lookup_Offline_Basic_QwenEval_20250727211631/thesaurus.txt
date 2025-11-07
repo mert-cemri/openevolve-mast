@@ -1,0 +1,9 @@
+'''
+Thesaurus data file for the CLI Thesaurus Lookup Tool.
+Each line contains a word, followed by a comma, then a semicolon-separated list of synonyms,
+another comma, and a semicolon-separated list of antonyms.
+Example:
+happy,joyful;cheerful;content;delighted,unhappy;sad
+'''
+happy,joyful;cheerful;content;delighted,unhappy;sad
+sad,unhappy;sorrowful;melancholy;dejected,happy;joyful

@@ -1,0 +1,4 @@
+# No external dependencies required at this time
+
+# Example of potential future dependencies
+# pygame==2.0.1  # Uncomment if using pygame for graphical display

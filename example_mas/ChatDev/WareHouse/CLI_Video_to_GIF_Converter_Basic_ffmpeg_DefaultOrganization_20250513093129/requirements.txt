@@ -1,0 +1,2 @@
+# No additional Python packages are required.
+# Ensure ffmpeg is installed on your system for the tool to function.

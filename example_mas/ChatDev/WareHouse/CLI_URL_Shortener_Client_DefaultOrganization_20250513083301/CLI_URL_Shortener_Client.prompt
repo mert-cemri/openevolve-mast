@@ -1,0 +1,1 @@
+Develop a CLI client for a URL shortening service (e.g., TinyURL API or similar). The user provides a long URL, and the tool outputs the shortened URL.

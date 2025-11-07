@@ -1,0 +1,1 @@
+Build a CLI program to find duplicate files within a specified directory based on their content (e.g., using MD5 or SHA256 hashes). List the paths of duplicate files.

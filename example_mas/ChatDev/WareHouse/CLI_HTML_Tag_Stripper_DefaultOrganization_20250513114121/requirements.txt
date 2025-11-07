@@ -1,0 +1,2 @@
+# No external dependencies required
+# Ensure Python version is 3.x for compatibility with tkinter and argparse

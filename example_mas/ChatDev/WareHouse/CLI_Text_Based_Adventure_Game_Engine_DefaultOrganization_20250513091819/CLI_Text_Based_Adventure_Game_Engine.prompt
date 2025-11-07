@@ -1,0 +1,1 @@
+Create a CLI engine for a simple text-based adventure game. Load game data (rooms, descriptions, items, choices) from a JSON or YAML file. Player navigates by typing commands.

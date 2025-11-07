@@ -1,0 +1,23 @@
+'''
+This module contains a function to check if any two numbers in a list are closer than a given threshold.
+'''
+from typing import List
+def has_close_elements(numbers: List[float], threshold: float) -> bool:
+    """ Check if in given list of numbers, are any two numbers closer to each other than
+    given threshold.
+    Args:
+    numbers (List[float]): A list of floating-point numbers.
+    threshold (float): The threshold distance to check for closeness.
+    Returns:
+    bool: True if any two numbers are closer than the threshold, False otherwise.
+    Examples:
+    >>> has_close_elements([1.0, 2.0, 3.0], 0.5)
+    False
+    >>> has_close_elements([1.0, 2.8, 3.0, 4.0, 5.0, 2.0], 0.3)
+    True
+    """
+    numbers.sort()  # Sort the list to make it easier to find close elements
+    for i in range(len(numbers) - 1):
+        if numbers[i + 1] - numbers[i] < threshold:
+            return True
+    return False

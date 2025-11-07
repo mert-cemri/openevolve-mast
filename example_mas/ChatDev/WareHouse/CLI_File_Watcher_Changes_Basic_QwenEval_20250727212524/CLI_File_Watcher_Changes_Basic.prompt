@@ -1,0 +1,1 @@
+Develop a CLI file watcher that monitors a specified file or directory for changes (creation, modification, deletion) and prints a notification to the console.

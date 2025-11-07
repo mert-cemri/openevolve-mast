@@ -1,0 +1,7 @@
+
+This format includes a comment that explains the purpose of each dependency, which can be helpful for anyone reading the `requirements.txt` file. It also specifies `psutil` with a version number of `>=5.8.0`, which means that any version of `psutil` 5.8.0 or higher will be acceptable. This approach allows for flexibility while ensuring compatibility with the provided code.
+
+If you want to lock down the version to a specific one, you can do so by specifying an exact version number like `psutil==5.8.0`. However, using `>=5.8.0` allows for updates to the `psutil` library that maintain backward compatibility, which can be beneficial for security patches and bug fixes.
+
+Here's the final `requirements.txt` file:
+

@@ -1,0 +1,40 @@
+'''
+CSS file for styling the website and ensuring responsive design.
+'''
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.header, .footer {
+  background-color: #003262;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+.header .brand {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.header .brand img {
+  height: 50px;
+  margin-right: 10px;
+}
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+nav ul li {
+  display: inline;
+  margin-right: 15px;
+}
+.main-content {
+  padding: 20px;
+}
+@media (max-width: 600px) {
+  nav ul li {
+    display: block;
+    margin: 5px 0;
+  }
+}

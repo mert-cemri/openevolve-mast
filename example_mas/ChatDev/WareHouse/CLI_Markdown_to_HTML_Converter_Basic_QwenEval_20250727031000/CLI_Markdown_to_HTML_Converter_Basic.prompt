@@ -1,0 +1,1 @@
+Build a basic CLI Markdown to HTML converter. It should support common Markdown syntax like headers, bold, italics, lists, and links, converting a .md file to a .html file.

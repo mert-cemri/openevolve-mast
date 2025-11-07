@@ -1,0 +1,1 @@
+python run.py /path/to/source/directory1 /path/to/source/directory2 /path/to/target/directory

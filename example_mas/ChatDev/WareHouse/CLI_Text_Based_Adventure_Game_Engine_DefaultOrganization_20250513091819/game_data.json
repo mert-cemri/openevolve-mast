@@ -1,0 +1,27 @@
+{
+    "start_room": "Entrance",
+    "rooms": [
+        {
+            "name": "Entrance",
+            "description": "You are at the entrance of a dark cave.",
+            "items": [
+                {"name": "torch", "description": "A wooden torch to light your way."}
+            ],
+            "exits": {"north": "Hallway"}
+        },
+        {
+            "name": "Hallway",
+            "description": "A narrow hallway with flickering lights.",
+            "items": [],
+            "exits": {"south": "Entrance", "east": "Treasure Room"}
+        },
+        {
+            "name": "Treasure Room",
+            "description": "A room filled with treasures.",
+            "items": [
+                {"name": "gold coin", "description": "A shiny gold coin."}
+            ],
+            "exits": {"west": "Hallway"}
+        }
+    ]
+}

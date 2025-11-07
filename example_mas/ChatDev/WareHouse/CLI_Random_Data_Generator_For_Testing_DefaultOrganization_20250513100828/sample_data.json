@@ -1,0 +1,6 @@
+'''
+Sample data file for initial use and testing.
+'''
+{
+    "example_key": "example_value"
+}

@@ -1,0 +1,1 @@
+CLI_Clipboard_Manager_Text_Only

@@ -1,0 +1,1 @@
+You have run out of guesses. The word was: strawberry

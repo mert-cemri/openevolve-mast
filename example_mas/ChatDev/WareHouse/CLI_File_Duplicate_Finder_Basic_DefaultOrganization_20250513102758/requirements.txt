@@ -1,0 +1,2 @@
+# No third-party packages are required for this project.
+# Ensure that tkinter is available in your Python installation.

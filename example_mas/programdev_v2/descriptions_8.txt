@@ -1,0 +1,1 @@
+Write a CLI program to analyze a log file (e.g., Apache access log, system log). The user specifies the log file and a pattern (e.g., ERROR, 404). The tool should count and display lines containing the pattern.

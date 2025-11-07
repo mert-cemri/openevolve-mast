@@ -1,0 +1,1 @@
+Create a CLI file renamer that can rename multiple files in a directory based on a specified pattern (e.g., add prefix, replace substring, add sequential numbers).

@@ -1,0 +1,1 @@
+Write a CLI dictionary lookup tool that uses a local, offline dictionary file (e.g., a plain text file with word:definition format). User inputs a word, tool displays definition.

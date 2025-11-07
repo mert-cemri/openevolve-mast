@@ -1,0 +1,1 @@
+Write a CLI tool to convert temperatures between Celsius, Fahrenheit, and Kelvin. The user should input the value, the source unit (e.g., C, F, K), and the target unit. Display the converted temperature.

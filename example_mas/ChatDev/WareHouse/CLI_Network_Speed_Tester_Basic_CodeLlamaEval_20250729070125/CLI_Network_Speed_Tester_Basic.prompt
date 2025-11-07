@@ -1,0 +1,1 @@
+Write a CLI network speed tester that measures download and upload speed against a public test server (e.g., using speedtest-cli or by downloading/uploading a file from a known server).

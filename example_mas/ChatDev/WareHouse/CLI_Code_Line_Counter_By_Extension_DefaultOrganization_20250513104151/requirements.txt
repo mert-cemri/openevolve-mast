@@ -1,0 +1,2 @@
+# No third-party dependencies are required for this project.
+# Ensure tkinter is installed if using the GUI component.

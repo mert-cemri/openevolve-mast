@@ -1,0 +1,18 @@
+[
+    {
+        "text": "You wake up in a mysterious forest. What do you do?",
+        "choices": {"Explore": 1, "Stay": 2}
+    },
+    {
+        "text": "You find a path leading to a village.",
+        "choices": {"Enter the village": 3, "Return to the forest": 0}
+    },
+    {
+        "text": "You decide to stay and rest. You feel refreshed.",
+        "choices": {"Continue exploring": 1}
+    },
+    {
+        "text": "The villagers welcome you. You have a new home.",
+        "choices": {"Start a new life": null}
+    }
+]

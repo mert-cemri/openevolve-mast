@@ -1,0 +1,1 @@
+Create a CLI code snippet manager. Allow users to save, categorize (e.g., by language), search, and retrieve frequently used code snippets. Store snippets in local files.

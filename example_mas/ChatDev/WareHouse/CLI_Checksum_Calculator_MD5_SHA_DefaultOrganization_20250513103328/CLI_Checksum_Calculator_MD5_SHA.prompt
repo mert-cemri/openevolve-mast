@@ -1,0 +1,1 @@
+Write a CLI utility to calculate and display the MD5 and SHA256 checksums of a given file. The user provides the file path.

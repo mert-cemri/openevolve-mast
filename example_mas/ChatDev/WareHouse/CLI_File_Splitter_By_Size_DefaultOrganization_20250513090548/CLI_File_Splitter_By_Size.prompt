@@ -1,0 +1,1 @@
+Develop a CLI utility to split a large file into smaller parts of a specified size (e.g., 10MB chunks). Name the output parts sequentially.

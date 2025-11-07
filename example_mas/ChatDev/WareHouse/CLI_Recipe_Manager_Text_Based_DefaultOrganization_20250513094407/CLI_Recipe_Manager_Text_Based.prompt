@@ -1,0 +1,1 @@
+Build a CLI recipe manager. Allow users to add recipes (name, ingredients, instructions), search for recipes by name or ingredient, and view recipe details. Store data in text or JSON files.

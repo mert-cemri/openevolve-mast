@@ -1,0 +1,2 @@
+# requirements.txt
+# No third-party packages are required for this project.

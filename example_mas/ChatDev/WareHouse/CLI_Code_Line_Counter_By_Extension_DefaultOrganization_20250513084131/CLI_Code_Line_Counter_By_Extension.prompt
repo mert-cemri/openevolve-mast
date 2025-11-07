@@ -1,0 +1,1 @@
+Build a CLI program that counts the total lines of code in a directory, categorized by file extension (e.g., .py, .js, .c). Ignore comments and blank lines if possible.

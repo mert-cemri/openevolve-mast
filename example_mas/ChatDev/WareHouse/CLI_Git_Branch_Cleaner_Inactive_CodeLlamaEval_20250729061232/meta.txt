@@ -1,0 +1,34 @@
+Task:
+Create a CLI tool to help clean up local Git branches by listing branches that have been merged into the main/master branch and are inactive (old commit date), offering an option to delete them.
+
+Config:
+ChatEnvConfig.with_memory: False
+ChatEnvConfig.clear_structure: True
+ChatEnvConfig.git_management: False
+ChatEnvConfig.gui_design: True
+ChatEnvConfig.incremental_develop: False
+ChatEnvConfig.background_prompt: ChatDev is a software company powered by multiple intelligent agents, such as chief executive officer, chief human resources officer, chief product officer, chief technology officer, etc, with a multi-agent organizational structure and the mission of 'changing the digital world through programming'.
+
+
+Roster:
+Chief Executive Officer, Counselor, Chief Human Resource Officer, Chief Product Officer, Chief Technology Officer, Programmer, Code Reviewer, Software Test Engineer, Chief Creative Officer
+
+Modality:
+\\\\  \\\\ \\\\\\   \\ \\ \\\\\\ cza\\  a  \\ \\\\   \\\\\\ \\\\\\ \\\\ \\ \\ \\ \\ \\\\\\\\\\ \\\\\\ \\\\ \\      \\   \\    \\\\\\\\ fahr  (\\ i\\\\ \\ \\ \\  \\\\\\\\\\  \\cza\\ \\   a\\  \\ \\ \\    \\\\   \\\\ \\ \\  \\ \\ \\  \\     \\\\\\  \\  \\   \\flug\\\\\\\\\\ c\\\\\\ \\ \\\\\\ \\\\\\ \\ \\     \\\\ d\\    \\\\ \\\\\\ \\ \\\\ \\\\\\  \\    \\\\\\  \\ \\ \\ \\  p\\ a  \\\\ \\\\\\\\\\   r\\   a\\  \\    \\ \\\\  \\ \\\\   \\ \\\\ \\ \\ \\ \\ \\ \\  \\\\\\ \\  \\\\ ( \\\\\\  \\  c\\\\ \\   \\\\ \\  a\\ \\ import \\\\ (\\\\  \\ \\ d\\\\  \\\\   \\\\\\\\ \\  \\    \\\\ \\ \\     \\   \\  \\\\ \\issen\\     (  package\\\\ "\\  \\ a  \\    \\\\  \\\\  \\\\ \\\\\\\\\\\\\\\\ \\   iesacza\\\\ r \\\\  \\ \\ \\  \\   \\  \\  s    \\    \\  c a\\ \\\\\\ \\\\  \\ \\   \\\\\\ a\\\\  \\\\  \\\\  \\\\\\ \\  \\\\ \\\\  \\\\ \\ \\\\ \\  \\  \\\\  \\   \\\\\\\\\\\\ a c \\ c\\   \\\\ \\  \\\\\\ \\   \\  \\\\ p\\\\ \\  \\  \\\\ \\ \\\\\\\\  \\\\\\     \\\\\\ \\ \\ a  \\\\\\\\\\  (   \\\\\\\\ \\     \\ \\\\\\\\ \\cza \\ \\ ( \\ \\\\   \\  \\ \\\\ \\    \\ a l\\ \\ \\\\     \\\\  \\\\  \\ \\\\\\ \\\\ \\ import  cza\\ \\  \\\\      \\\\ insen  \\  \\   \\ p\\      s    \\\\  \\     \\\\  \\\\  \\ \\  \\ \\ \\\\\\  \\ \\ a         \\ \\\\ \\ \\\\     \\\\  c\\\\\\ \\ \\\\\\ \\\\  \\ \\     \\    \\ \\\\ a\\  \\\\  \\\\   \\ \\   \\\\ \\cza\\   \\\\ \\   \\    \\\\   \\\\ \\\\   \\\\\\   \\     \\cza\\  \\     \\\\ p\\\\\\ \\ 
+\\ \\ \\\\\\\\\\\\  \\   \\\\ \\\\\\        \\\\  \\\\  \\   \\ \\\\   \\ \\\\   " \\ \\ "\\ \\\\  a \\\\\\ \\ c\\\\ \\\\ \\ \\ \\\\  ' \\ \\     \\ \\\\  \\ \\\\   \\ \\\\ \\   \\   \\ \\  \\\\\\ \\\\  '\\  \\ \\        \\ \\ \\\\  \\\\   \\insen\\\\\\\\\\      \\  \\  \\ \\  \\  \\\\\\ \\\\\\      \\insen\\\\  \\  \\\\ a \\\\  \\ \\ \\      \\cza \\\\   \\     \\  \\\\ \\\\\\ "\\\\\\ \\。\\  \\   \\ \\\\  \\\\iesa    \\   \\\\  \\     \\  import   \\ \\\\cza   \\ugel (\\\\\\\\ \\\\ \\\\\\  \\ \\\\\\ \\ \\\\ \\ (   \\    \\\\  \\  \\\\\\  \\ \\  \\ \\ \\ \\  \\\\ \\\\ \\\\  r     \\\\\\\\\\\\\\     \\\\   \\\\\\ \\\\     \\\\\\\\\\\\    \\\\    \\\\\\\\ \\\\\\ \\ \\\\\\\\  a \\\\\\\\\\\\  \\\\\\\\\\ \\  \\  \\\\   " a    " \\\\  f  \\\\\\ a\\\\ \\   \\ \\\\\\ \\ c    \\\\ \\\\     \\  \\  \\\\ \\ \\  \\\\\\\\\\ cza\\ \\\\  \\  \\\\ \\\\ \\ \\\\\\ \\  \\  \\\\ \\\\   import \\ \\\\ \\\\   \\  \\  \\ \\\\\\  \\    \\\\\\\\ \\\\\\cza \\     \\\\   \\\\  \\\\    \\ \\\\  \\\\\\    \\\\\\\\ \\     \\\\\\   ugel   \\\\\\ \\       öm \\ \\\\
+
+Ideas:
+
+
+Language:
+  \\\\   \\\\
+
+Code_Version:
+4.0
+
+Proposed_images:
+0
+
+Incorporated_images:
+0
+

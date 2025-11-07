@@ -1,0 +1,2 @@
+# No external dependencies are required for this project as it uses standard Python libraries.
+# Ensure tkinter is available in your Python environment.

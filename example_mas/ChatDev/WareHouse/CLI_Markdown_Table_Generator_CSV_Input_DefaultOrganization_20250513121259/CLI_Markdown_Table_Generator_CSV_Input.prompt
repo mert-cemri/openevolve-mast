@@ -1,0 +1,1 @@
+Develop a CLI tool that generates a Markdown table from a CSV file input. The first row of the CSV is treated as the header.

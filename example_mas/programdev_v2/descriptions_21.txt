@@ -1,0 +1,1 @@
+Create a CLI timer and countdown tool. For the timer, it counts up from zero. For countdown, the user specifies a duration (e.g., 5m, 1h30s), and it counts down, notifying when finished.

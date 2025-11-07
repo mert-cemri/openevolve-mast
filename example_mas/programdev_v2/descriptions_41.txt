@@ -1,0 +1,1 @@
+Create a CLI Morse code translator. It should translate English text to Morse code and Morse code (dots and dashes) back to English text.

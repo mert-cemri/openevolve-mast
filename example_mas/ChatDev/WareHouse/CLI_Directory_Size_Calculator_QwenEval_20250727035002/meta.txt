@@ -1,0 +1,39 @@
+Task:
+Develop a CLI utility to calculate and display the total size of a directory and its subdirectories. The output should be human-readable (e.g., KB, MB, GB).
+
+Config:
+ChatEnvConfig.with_memory: False
+ChatEnvConfig.clear_structure: True
+ChatEnvConfig.git_management: False
+ChatEnvConfig.gui_design: True
+ChatEnvConfig.incremental_develop: False
+ChatEnvConfig.background_prompt: ChatDev is a software company powered by multiple intelligent agents, such as chief executive officer, chief human resources officer, chief product officer, chief technology officer, etc, with a multi-agent organizational structure and the mission of 'changing the digital world through programming'.
+
+
+Roster:
+Chief Executive Officer, Counselor, Chief Human Resource Officer, Chief Product Officer, Chief Technology Officer, Programmer, Code Reviewer, Software Test Engineer, Chief Creative Officer
+
+Modality:
+application
+
+Ideas:
+
+
+Language:
+ 1. **Ease of Use and Understandability**: Python is renowned for its simplicity and readability, making it an excellent choice for rapid development.
+2. **File and Directory Operations**: Python's `os` and `os.path` modules provide robust tools for navigating and manipulating the file system.
+3. **Human-Readable File Sizes**: The `shutil` module includes a function `shutil.disk_usage` and `shutil.format_size` which can be used to convert file sizes to human-readable formats easily.
+
+Given these points, Python is indeed the best choice for this task.
+
+Python
+
+Code_Version:
+4.0
+
+Proposed_images:
+0
+
+Incorporated_images:
+0
+

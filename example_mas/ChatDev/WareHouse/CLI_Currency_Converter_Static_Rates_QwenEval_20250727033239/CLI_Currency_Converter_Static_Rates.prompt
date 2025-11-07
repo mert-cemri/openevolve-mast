@@ -1,0 +1,1 @@
+Write a CLI currency converter that uses a predefined, static set of exchange rates (e.g., stored in a configuration file). The user inputs an amount, source currency, and target currency.

@@ -1,0 +1,1 @@
+Develop a basic CLI file archiver that can create and extract ZIP archives. It should support adding files/directories to a ZIP and extracting contents from a ZIP file.

@@ -1,0 +1,9 @@
+
+### Explanation:
+
+- **requests>=2.25.1**: This specifies that the `requests` library should be installed, with a minimum version of 2.25.1. This version is chosen because it's a stable version and widely used for making HTTP requests in Python. The `>=` operator allows for any version equal to or greater than 2.25.1 to be installed, which helps in ensuring compatibility with future updates.
+
+### Usage:
+
+To install the dependencies specified in `requirements.txt`, you can run the following command in your terminal:
+

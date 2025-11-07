@@ -1,0 +1,1 @@
+Develop a CLI system log monitor that tails a specified log file (e.g., /var/log/syslog) and highlights lines containing user-defined keywords.

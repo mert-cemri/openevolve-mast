@@ -1,0 +1,1 @@
+Develop a CLI environment variable manager. Allow users to list, set (for current session or persistently via shell profile), and unset environment variables easily.

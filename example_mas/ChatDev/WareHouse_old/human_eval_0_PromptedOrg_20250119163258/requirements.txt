@@ -1,0 +1,2 @@
+# No external dependencies are required for this project as tkinter is part of the standard library.
+# If additional packages are used in the future, they should be listed here.

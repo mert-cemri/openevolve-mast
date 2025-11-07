@@ -1,0 +1,1 @@
+Create a CLI YAML file validator. Takes a YAML file path and checks if its syntax is valid. Print success or error messages with line numbers if possible.

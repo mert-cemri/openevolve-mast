@@ -1,0 +1,1 @@
+CLI_Image_Resizer_Basic_Proportions

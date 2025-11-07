@@ -1,0 +1,139 @@
+'''
+This file contains the HTML structure, CSS styling, and JavaScript logic for a simple responsive web-based calculator.
+'''
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Calculator</title>
+    <style>
+        /* CSS Styling for the calculator */
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f4f4f9;
+        }
+        .calculator {
+            width: 100%;
+            max-width: 400px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+        }
+        .display {
+            background-color: #222;
+            color: #fff;
+            font-size: 2em;
+            padding: 20px;
+            text-align: right;
+        }
+        .buttons {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+        }
+        button {
+            font-size: 1.5em;
+            padding: 20px;
+            border: 1px solid #ddd;
+            background-color: #f9f9f9;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        button:hover {
+            background-color: #eaeaea;
+        }
+    </style>
+</head>
+<body>
+    <div class="calculator">
+        <div class="display" id="display">0</div>
+        <div class="buttons">
+            <button>7</button>
+            <button>8</button>
+            <button>9</button>
+            <button>/</button>
+            <button>4</button>
+            <button>5</button>
+            <button>6</button>
+            <button>*</button>
+            <button>1</button>
+            <button>2</button>
+            <button>3</button>
+            <button>-</button>
+            <button>0</button>
+            <button>.</button>
+            <button>=</button>
+            <button>+</button>
+        </div>
+    </div>
+    <script>
+        // JavaScript Logic for the calculator
+        let currentInput = '';
+        let previousInput = '';
+        let operator = '';
+        function addEventListeners() {
+            const buttons = document.querySelectorAll('.buttons button');
+            buttons.forEach(button => {
+                button.addEventListener('click', handleButtonClick);
+            });
+        }
+        function handleButtonClick(event) {
+            const value = event.target.textContent;
+            const display = document.getElementById('display');
+            if (!isNaN(value) || value === '.') {
+                currentInput += value;
+                display.textContent = currentInput;
+            } else if (value === '=') {
+                performCalculation();
+                display.textContent = currentInput;
+                previousInput = '';
+                operator = '';
+            } else {
+                if (currentInput) {
+                    if (previousInput && operator) {
+                        performCalculation();
+                        display.textContent = currentInput; // Update display after intermediate calculation
+                    }
+                    operator = value;
+                    previousInput = currentInput;
+                    currentInput = '';
+                }
+            }
+        }
+        function performCalculation() {
+            const prev = parseFloat(previousInput);
+            const current = parseFloat(currentInput);
+            if (isNaN(prev) || isNaN(current)) return;
+            switch (operator) {
+                case '+':
+                    currentInput = (prev + current).toString();
+                    break;
+                case '-':
+                    currentInput = (prev - current).toString();
+                    break;
+                case '*':
+                    currentInput = (prev * current).toString();
+                    break;
+                case '/':
+                    if (current === 0) {
+                        currentInput = 'Error'; // Display an error message
+                        previousInput = '';
+                        operator = '';
+                    } else {
+                        currentInput = (prev / current).toString();
+                    }
+                    break;
+                default:
+                    return;
+            }
+        }
+        // Initialize calculator
+        addEventListeners();
+    </script>
+</body>
+</html>

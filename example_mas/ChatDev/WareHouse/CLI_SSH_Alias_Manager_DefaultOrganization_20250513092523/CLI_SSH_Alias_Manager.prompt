@@ -1,0 +1,1 @@
+Build a CLI SSH alias manager. Allow users to add, list, and remove SSH connection aliases (hostname, user, port, key file) stored in a configuration file, making it easier to connect.

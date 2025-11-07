@@ -1,0 +1,1 @@
+Create a CLI tool to help clean up local Git branches by listing branches that have been merged into the main/master branch and are inactive (old commit date), offering an option to delete them.

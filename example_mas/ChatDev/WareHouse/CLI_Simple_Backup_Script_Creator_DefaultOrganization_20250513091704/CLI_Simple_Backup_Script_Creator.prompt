@@ -1,0 +1,1 @@
+Write a CLI script creator for simple backups. User specifies source directories and a target backup location. The script (e.g., shell script using `rsync` or `tar`) is generated.

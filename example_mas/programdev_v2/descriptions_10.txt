@@ -1,0 +1,1 @@
+Develop a CLI utility for simple file encryption and decryption using a symmetric algorithm (e.g., AES with a user-provided password). The tool should take input file, output file, password, and mode (encrypt/decrypt) as arguments.

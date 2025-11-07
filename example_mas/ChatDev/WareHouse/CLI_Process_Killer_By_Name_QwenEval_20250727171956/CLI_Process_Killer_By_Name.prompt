@@ -1,0 +1,1 @@
+Create a CLI tool to find and kill processes by their name. The tool should list matching processes and ask for confirmation before killing.

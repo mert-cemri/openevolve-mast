@@ -1,0 +1,1 @@
+Build a CLI audio file tag editor for MP3 files (basic ID3 tags). Allow viewing and modifying tags like title, artist, album, year. Requires a library for MP3 tag manipulation.

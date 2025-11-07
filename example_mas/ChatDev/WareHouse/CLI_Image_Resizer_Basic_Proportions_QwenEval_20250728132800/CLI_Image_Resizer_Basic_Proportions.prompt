@@ -1,0 +1,1 @@
+Develop a basic CLI image resizer. Takes an image file, target width or height, and resizes it while maintaining aspect ratio. Save the output to a new file.

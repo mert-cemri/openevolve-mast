@@ -1,0 +1,1 @@
+Develop a CLI personal journal application. Entries are timestamped and can be encrypted with a user-provided password. Store entries in a local file.

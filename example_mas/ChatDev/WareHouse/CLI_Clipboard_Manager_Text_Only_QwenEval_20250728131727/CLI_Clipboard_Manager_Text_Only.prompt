@@ -1,0 +1,1 @@
+Build a CLI clipboard manager for text only. Allow users to copy text to this internal clipboard, paste from it, and view its history. (Manages its own clipboard, not the system one directly without extra tools).

@@ -1,0 +1,5 @@
+
+### Final Decision
+
+For simplicity and clarity, I recommend using the minimalistic comment. Here is the final `requirements.txt` file:
+

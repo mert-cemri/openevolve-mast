@@ -1,0 +1,5 @@
+
+This approach ensures that the project can benefit from bug fixes and improvements in the `requests` and `python-dotenv` packages without risking compatibility issues.
+
+Let's finalize this `requirements.txt` file with the version ranges:
+

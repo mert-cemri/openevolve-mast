@@ -1,0 +1,1 @@
+Write a simple CLI chat server for a local network. Listens for connections from chat clients and broadcasts messages to all connected clients.

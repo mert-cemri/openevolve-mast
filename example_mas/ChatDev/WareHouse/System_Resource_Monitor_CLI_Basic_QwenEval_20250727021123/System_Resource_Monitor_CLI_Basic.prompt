@@ -1,0 +1,1 @@
+Develop a simple CLI tool that displays basic system resource usage: CPU percentage, memory usage (total, used, free), and disk space (total, used, free for a specified partition or root). Update the display every few seconds or on command.

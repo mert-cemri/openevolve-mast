@@ -1,0 +1,1 @@
+Develop a simple CLI log rotator. It renames an existing log file (e.g., app.log to app.log.1) and creates a new empty app.log. Optionally, compress old logs and delete logs older than N days.

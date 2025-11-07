@@ -1,0 +1,5 @@
+
+Alternatively, if you prefer to keep it completely empty, you can create a `requirements.txt` file with no content.
+
+Let's proceed with the commented version for clarity:
+

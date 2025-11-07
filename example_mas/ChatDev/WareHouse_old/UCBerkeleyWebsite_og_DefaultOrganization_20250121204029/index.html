@@ -1,0 +1,54 @@
+'''
+Main HTML file for UC Berkeley's landing page prototype.
+'''
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UC Berkeley</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="bootstrap.min.css">
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" href="#" aria-label="UC Berkeley Home">UC Berkeley</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a class="nav-link" href="#admissions">Admissions</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#academics">Academics</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#research">Research</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#news">News & Events</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <main>
+        <section id="admissions">
+            <h2>Admissions</h2>
+            <p>Information about admissions...</p>
+        </section>
+        <section id="academics">
+            <h2>Academics</h2>
+            <p>Information about academics...</p>
+        </section>
+        <section id="research">
+            <h2>Research</h2>
+            <p>Information about research...</p>
+        </section>
+        <section id="news">
+            <h2>News & Events</h2>
+            <div id="news-container"></div>
+        </section>
+    </main>
+    <footer>
+        <p>Contact information and additional links...</p>
+    </footer>
+    <script src="script.js"></script>
+    <script src="bootstrap.min.js"></script>
+</body>
+</html>

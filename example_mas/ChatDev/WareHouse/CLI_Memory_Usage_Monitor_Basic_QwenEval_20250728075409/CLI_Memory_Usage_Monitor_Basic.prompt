@@ -1,0 +1,1 @@
+Create a CLI memory usage monitor that displays overall system memory usage and optionally lists top memory-consuming processes. (e.g. using /proc/meminfo and /proc/[pid]/status).

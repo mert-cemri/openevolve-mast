@@ -1,0 +1,5 @@
+# No external libraries are currently required for this project.
+# If you plan to use a specific Python version, you can specify it like below:
+# python_version=="3.x"
+# Example of specifying a Python version
+# python_version=="3.8"

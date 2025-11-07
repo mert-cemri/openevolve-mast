@@ -1,0 +1,5 @@
+# Specify the Python version
+python_version>=3.6
+
+# Note: Git is a system-level dependency and must be installed separately.
+# It is not included in this requirements.txt file as it is not a Python package.

@@ -1,0 +1,4 @@
+# This project does not require any external packages.
+# Ensure you are using Python 3.x, as it is required for the http.server module.
+# Example Python version specification
+# python_version >= "3.6"

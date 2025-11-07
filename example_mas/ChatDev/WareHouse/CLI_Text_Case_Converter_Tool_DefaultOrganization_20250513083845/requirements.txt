@@ -1,0 +1,4 @@
+# Specify the Python version used for development
+python_version >= 3.6
+
+# No external packages are required as the project uses only standard libraries

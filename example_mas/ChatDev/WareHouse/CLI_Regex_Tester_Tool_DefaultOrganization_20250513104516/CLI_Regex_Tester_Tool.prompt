@@ -1,0 +1,1 @@
+Develop a CLI regex tester. The user provides a regular expression and a test string. The tool indicates if the string matches the regex and can optionally show matched groups.

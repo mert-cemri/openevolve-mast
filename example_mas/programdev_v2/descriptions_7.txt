@@ -1,0 +1,1 @@
+Build a CLI task scheduler that allows users to add tasks with a specific execution time (e.g., HH:MM on a given date). The tool should execute a specified command when the time is reached. Store tasks in a simple text file.

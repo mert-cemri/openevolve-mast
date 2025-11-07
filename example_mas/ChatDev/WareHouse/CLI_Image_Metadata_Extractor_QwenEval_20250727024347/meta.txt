@@ -1,0 +1,41 @@
+Task:
+Create a CLI tool to extract and display basic metadata (e.g., resolution, format, creation date if available) from image files (JPEG, PNG). The user provides the image file path.
+
+Config:
+ChatEnvConfig.with_memory: False
+ChatEnvConfig.clear_structure: True
+ChatEnvConfig.git_management: False
+ChatEnvConfig.gui_design: True
+ChatEnvConfig.incremental_develop: False
+ChatEnvConfig.background_prompt: ChatDev is a software company powered by multiple intelligent agents, such as chief executive officer, chief human resources officer, chief product officer, chief technology officer, etc, with a multi-agent organizational structure and the mission of 'changing the digital world through programming'.
+
+
+Roster:
+Chief Executive Officer, Counselor, Chief Human Resource Officer, Chief Product Officer, Chief Technology Officer, Programmer, Code Reviewer, Software Test Engineer, Chief Creative Officer
+
+Modality:
+application
+
+Ideas:
+
+
+Language:
+ 1. **Ease of Use and Learning Curve**: Python is known for its readability and ease of use, which makes it a great choice for rapid development.
+2. **Libraries and Ecosystem**: Python has a rich ecosystem of libraries that can handle image processing and metadata extraction. Libraries like Pillow (PIL Fork) and ExifRead are specifically designed for these tasks.
+3. **Community Support**: Python has a large and active community, which means there are plenty of resources, tutorials, and forums available for troubleshooting and learning.
+4. **Cross-Platform Compatibility**: Python is cross-platform, which means the CLI tool can be developed once and run on multiple operating systems without modification.
+5. **Performance**: While Python is not the fastest language, for this specific task, performance is not a critical factor. The efficiency of the libraries used will ensure that the tool performs well.
+
+Given these points, Python is indeed an excellent choice for developing a CLI tool to extract and display basic metadata from image files.
+
+Python
+
+Code_Version:
+5.0
+
+Proposed_images:
+0
+
+Incorporated_images:
+0
+

@@ -1,0 +1,2 @@
+# requirements.txt
+# No external dependencies are required for this project as it only uses the standard tkinter library.

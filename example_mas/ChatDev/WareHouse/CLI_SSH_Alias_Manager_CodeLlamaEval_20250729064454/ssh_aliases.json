@@ -1,0 +1,8 @@
+{
+    "example": {
+        "hostname": "example.com",
+        "user": "user",
+        "port": 22,
+        "key_file": "~/.ssh/id_rsa"
+    }
+}

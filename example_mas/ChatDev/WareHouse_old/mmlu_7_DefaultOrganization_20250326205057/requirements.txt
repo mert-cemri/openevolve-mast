@@ -1,0 +1,3 @@
+# No external packages required
+# Ensure Python version compatibility
+python_version >= "3.6"

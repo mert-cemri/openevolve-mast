@@ -1,0 +1,2 @@
+# This project does not require any external Python dependencies.
+# It is a web-based application using HTML, CSS, and JavaScript.

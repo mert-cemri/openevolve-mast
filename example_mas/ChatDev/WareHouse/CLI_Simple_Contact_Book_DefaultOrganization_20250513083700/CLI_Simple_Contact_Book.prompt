@@ -1,0 +1,1 @@
+Develop a simple CLI contact book. Allow users to add, view, search, and delete contacts (name, phone number, email). Store contacts in a plain text or CSV file.

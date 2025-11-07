@@ -1,0 +1,5 @@
+
+This approach ensures that anyone reading the `requirements.txt` file understands that no additional packages need to be installed for the project to run.
+
+If you prefer an empty `requirements.txt` file, that is also acceptable:
+

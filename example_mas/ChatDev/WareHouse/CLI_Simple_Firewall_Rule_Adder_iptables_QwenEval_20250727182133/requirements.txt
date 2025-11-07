@@ -1,0 +1,5 @@
+
+This approach is clear and communicates the project's current state effectively. If we decide to leave it completely empty, that's also acceptable, but the commented version provides a bit more context.
+
+Let's go with the commented version for now:
+

@@ -1,0 +1,15 @@
+'''
+This module contains the implementation of the below_threshold function, which checks if all numbers in a list are below a given threshold.
+'''
+def below_threshold(l: list, t: int) -> bool:
+    """
+    Return True if all numbers in the list l are below threshold t.
+    >>> below_threshold([1, 2, 4, 10], 100)
+    True
+    >>> below_threshold([1, 20, 4, 10], 5)
+    False
+    """
+    for number in l:
+        if number >= t:
+            return False
+    return True

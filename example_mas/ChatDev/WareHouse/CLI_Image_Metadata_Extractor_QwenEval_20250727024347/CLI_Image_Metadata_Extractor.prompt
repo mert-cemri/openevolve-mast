@@ -1,0 +1,1 @@
+Create a CLI tool to extract and display basic metadata (e.g., resolution, format, creation date if available) from image files (JPEG, PNG). The user provides the image file path.

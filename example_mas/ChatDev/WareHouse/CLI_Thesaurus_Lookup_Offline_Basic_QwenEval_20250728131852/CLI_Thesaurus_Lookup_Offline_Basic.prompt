@@ -1,0 +1,1 @@
+Create a CLI thesaurus lookup tool using a local, offline thesaurus file. User inputs a word, tool displays synonyms and antonyms if available.

@@ -1,0 +1,4 @@
+# Specify the Python version if needed
+# python_version==3.8
+
+# No external dependencies required for this project

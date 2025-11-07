@@ -1,0 +1,1 @@
+Create a CLI application to view the contents of a JSON file in a human-readable, indented format. The tool should take a file path as input and print the formatted JSON to the standard output.

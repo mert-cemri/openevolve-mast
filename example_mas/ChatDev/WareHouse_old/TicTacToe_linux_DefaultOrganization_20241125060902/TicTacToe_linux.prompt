@@ -1,0 +1,1 @@
+Design a tic-tac-toe game with a user-friendly interface, allowing two players to take turns and determining the winner. It should be playable from Linux Terminal, and does not require me to access a dedicated UX or GUI platform, i.e. print the results on terminal at each stage and let me play it there by entering inputs.

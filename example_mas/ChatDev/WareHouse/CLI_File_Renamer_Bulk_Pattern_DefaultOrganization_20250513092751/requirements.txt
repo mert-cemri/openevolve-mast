@@ -1,0 +1,2 @@
+# Ensure tkinter is installed on your system. On some Linux distributions, you may need to install it separately.
+# For example, on Ubuntu, you can run: sudo apt-get install python3-tk

@@ -1,0 +1,10 @@
+'''
+This file contains a list of correctly spelled words for the spell checker to use as a reference.
+'''
+example
+word
+correct
+spelling
+check
+python
+programming

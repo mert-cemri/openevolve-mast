@@ -1,0 +1,1 @@
+Create a CLI music playlist manager. Allow users to create playlists, add songs (song title, artist, album - stored as text), remove songs, and view playlists. Store data in text files.

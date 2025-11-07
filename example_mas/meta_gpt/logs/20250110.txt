@@ -1,0 +1,2 @@
+2025-01-10 17:12:27.234 | INFO     | metagpt.team:invest:90 - Investment: $3.0.
+2025-01-10 17:12:27.236 | DEBUG    | metagpt.environment.base_env:publish_message:144 - publish_message: {"id":"79dd28cb40634fbab7b36f3698ce8c21","content":"Create a 2048 game","role":"Human","cause_by":"metagpt.actions.add_requirement.UserRequirement","sent_from":"","send_to":["<all>"]}

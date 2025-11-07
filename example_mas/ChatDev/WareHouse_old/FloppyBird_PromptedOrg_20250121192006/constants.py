@@ -1,0 +1,29 @@
+'''
+Constants module to store game constants.
+'''
+# Screen dimensions
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 600
+# Bird properties
+BIRD_START_X = 100
+BIRD_START_Y = 300
+BIRD_RADIUS = 20
+BIRD_COLOR = (255, 255, 0)
+FLAP_STRENGTH = 10
+GRAVITY = 1
+# Pipe properties
+PIPE_WIDTH = 80
+PIPE_SPEED = 5
+PIPE_GAP_SIZE = 200
+PIPE_GAP_MIN = 100
+PIPE_GAP_MAX = 400
+PIPE_COLOR = (0, 255, 0)
+PIPE_SPACING = 300
+# Score properties
+SCORE_FONT_SIZE = 36
+SCORE_COLOR = (255, 255, 255)
+SCORE_POSITION = (10, 10)
+# Game properties
+BACKGROUND_COLOR = (0, 0, 255)
+GROUND_HEIGHT = 50
+FPS = 60

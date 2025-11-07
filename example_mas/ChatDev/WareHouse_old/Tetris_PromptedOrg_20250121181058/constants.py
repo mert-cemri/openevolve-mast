@@ -1,0 +1,9 @@
+'''
+Constants for the Tetris game.
+'''
+SCREEN_WIDTH = 300
+SCREEN_HEIGHT = 600
+BOARD_WIDTH = 10
+BOARD_HEIGHT = 20
+BLOCK_SIZE = 30
+FPS = 60

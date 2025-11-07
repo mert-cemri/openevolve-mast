@@ -1,0 +1,741 @@
+Script started on 2025-01-29 20:21:43+00:00 [TERM="screen.xterm-256color" TTY="/dev/pts/73" COLUMNS="172" LINES="26"]
+[?2004h(base) [01;32mmert@bliss1[00m:[01;34m~/mlsys/meta_gpt/MetaGPT[00m$ exit./run_metagpt.sh 
+[?2004l
+CondaError: Run 'conda init' before 'conda activate'
+
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 8, in <module>
+    import fire
+ModuleNotFoundError: No module named 'fire'
+
+CondaError: Run 'conda init' before 'conda activate'
+
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 8, in <module>
+    import fire
+ModuleNotFoundError: No module named 'fire'
+
+CondaError: Run 'conda init' before 'conda activate'
+
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 8, in <module>
+    import fire
+ModuleNotFoundError: No module named 'fire'
+
+CondaError: Run 'conda init' before 'conda activate'
+
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 8, in <module>
+    import fire
+ModuleNotFoundError: No module named 'fire'
+
+CondaError: Run 'conda init' before 'conda activate'
+
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 8, in <module>
+    import fire
+ModuleNotFoundError: No module named 'fire'
+
+CondaError: Run 'conda init' before 'conda activate'
+
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 8, in <module>
+    import fire
+ModuleNotFoundError: No module named 'fire'
+
+CondaError: Run 'conda init' before 'conda activate'
+
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 8, in <module>
+    import fire
+ModuleNotFoundError: No module named 'fire'
+
+CondaError: Run 'conda init' before 'conda activate'
+
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 8, in <module>
+    import fire
+ModuleNotFoundError: No module named 'fire'
+
+CondaError: Run 'conda init' before 'conda activate'
+
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 8, in <module>
+    import fire
+ModuleNotFoundError: No module named 'fire'
+
+CondaError: Run 'conda init' before 'conda activate'
+
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 8, in <module>
+    import fire
+ModuleNotFoundError: No module named 'fire'
+
+CondaError: Run 'conda init' before 'conda activate'
+
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 8, in <module>
+    import fire
+ModuleNotFoundError: No module named 'fire'
+
+CondaError: Run 'conda init' before 'conda activate'
+
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 8, in <module>
+    import fire
+ModuleNotFoundError: No module named 'fire'
+
+CondaError: Run 'conda init' before 'conda activate'
+
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 8, in <module>
+    import fire
+ModuleNotFoundError: No module named 'fire'
+
+CondaError: Run 'conda init' before 'conda activate'
+
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 8, in <module>
+    import fire
+ModuleNotFoundError: No module named 'fire'
+
+CondaError: Run 'conda init' before 'conda activate'
+
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 8, in <module>
+    import fire
+ModuleNotFoundError: No module named 'fire'
+
+CondaError: Run 'conda init' before 'conda activate'
+
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 8, in <module>
+    import fire
+ModuleNotFoundError: No module named 'fire'
+
+CondaError: Run 'conda init' before 'conda activate'
+
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 8, in <module>
+    import fire
+ModuleNotFoundError: No module named 'fire'
+
+CondaError: Run 'conda init' before 'conda activate'
+
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 8, in <module>
+    import fire
+ModuleNotFoundError: No module named 'fire'
+
+CondaError: Run 'conda init' before 'conda activate'
+
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 8, in <module>
+    import fire
+ModuleNotFoundError: No module named 'fire'
+
+CondaError: Run 'conda init' before 'conda activate'
+
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 8, in <module>
+    import fire
+ModuleNotFoundError: No module named 'fire'
+
+CondaError: Run 'conda init' before 'conda activate'
+
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 8, in <module>
+    import fire
+ModuleNotFoundError: No module named 'fire'
+
+CondaError: Run 'conda init' before 'conda activate'
+
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 8, in <module>
+    import fire
+ModuleNotFoundError: No module named 'fire'
+
+CondaError: Run 'conda init' before 'conda activate'
+
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 8, in <module>
+    import fire
+ModuleNotFoundError: No module named 'fire'
+
+CondaError: Run 'conda init' before 'conda activate'
+
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 8, in <module>
+    import fire
+ModuleNotFoundError: No module named 'fire'
+
+CondaError: Run 'conda init' before 'conda activate'
+
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 8, in <module>
+    import fire
+ModuleNotFoundError: No module named 'fire'
+
+CondaError: Run 'conda init' before 'conda activate'
+
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 8, in <module>
+    import fire
+ModuleNotFoundError: No module named 'fire'
+
+CondaError: Run 'conda init' before 'conda activate'
+
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 8, in <module>
+    import fire
+ModuleNotFoundError: No module named 'fire'
+
+CondaError: Run 'conda init' before 'conda activate'
+
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 8, in <module>
+    import fire
+ModuleNotFoundError: No module named 'fire'
+
+CondaError: Run 'conda init' before 'conda activate'
+
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 8, in <module>
+    import fire
+ModuleNotFoundError: No module named 'fire'
+
+CondaError: Run 'conda init' before 'conda activate'
+
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 8, in <module>
+    import fire
+ModuleNotFoundError: No module named 'fire'
+
+CondaError: Run 'conda init' before 'conda activate'
+
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 8, in <module>
+    import fire
+ModuleNotFoundError: No module named 'fire'
+
+CondaError: Run 'conda init' before 'conda activate'
+
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 8, in <module>
+    import fire
+ModuleNotFoundError: No module named 'fire'
+
+CondaError: Run 'conda init' before 'conda activate'
+
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 8, in <module>
+    import fire
+ModuleNotFoundError: No module named 'fire'
+
+CondaError: Run 'conda init' before 'conda activate'
+
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 8, in <module>
+    import fire
+ModuleNotFoundError: No module named 'fire'
+[?2004h(base) [01;32mmert@bliss1[00m:[01;34m~/mlsys/meta_gpt/MetaGPT[00m$ conda activate meta_gpt
+[?2004l[?2004h(meta_gpt) [01;32mmert@bliss1[00m:[01;34m~/mlsys/meta_gpt/MetaGPT[00m$ conda activate meta_gpt[6P./run_metagpt.sh 
+[?2004l
+CondaError: Run 'conda init' before 'conda activate'
+
+[32m2025-01-29 20:22:10.207[0m | [1mINFO    [0m | [36mmetagpt.const[0m:[36mget_metagpt_package_root[0m:[36m29[0m - [1mPackage root set to /home/mert/mlsys/meta_gpt/MetaGPT[0m
+[32m2025-01-29 20:22:13.161[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m140[0m - [1mDesign a tic-tac-toe game with a user-friendly interface, allowing two players to take turns and determining the winner.[0m
+Task exception was never retrieved
+future: <Task finished name='Task-2' coro=<AsyncClient.aclose() done, defined at /home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/httpx/_client.py:1978> exception=AttributeError("'AsyncHttpxClientWrapper' object has no attribute '_state'")>
+Traceback (most recent call last):
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/httpx/_client.py", line 1982, in aclose
+    if self._state != ClientState.CLOSED:
+AttributeError: 'AsyncHttpxClientWrapper' object has no attribute '_state'
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 158, in <module>
+    fire.Fire(main)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/fire/core.py", line 141, in Fire
+    component_trace = _Fire(component, args, parsed_flag_args, context, name)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/fire/core.py", line 466, in _Fire
+    component, remaining_args = _CallAndUpdateTrace(
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/fire/core.py", line 679, in _CallAndUpdateTrace
+    component = loop.run_until_complete(fn(*varargs, **kwargs))
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/asyncio/base_events.py", line 649, in run_until_complete
+    return future.result()
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 145, in main
+    SimpleCoder(),
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 50, in __init__
+    super().__init__(**kwargs)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/pydantic/main.py", line 171, in __init__
+    self.__pydantic_validator__.validate_python(data, self_instance=self)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/roles/role.py", line 161, in validate_role_extra
+    self._process_role_extra()
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/roles/role.py", line 171, in _process_role_extra
+    self.llm.system_prompt = self._get_prefix()
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/context_mixin.py", line 95, in llm
+    self.private_llm = self.context.llm_with_cost_manager_from_llm_config(self.config.llm)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/context.py", line 107, in llm_with_cost_manager_from_llm_config
+    llm = create_llm_instance(llm_config)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/provider/llm_provider_registry.py", line 40, in create_llm_instance
+    return LLM_REGISTRY.get_provider(config.api_type)(config)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/provider/openai_api.py", line 49, in __init__
+    self._init_client()
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/provider/openai_api.py", line 58, in _init_client
+    self.aclient = AsyncOpenAI(**kwargs)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/openai/_client.py", line 306, in __init__
+    super().__init__(
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/openai/_base_client.py", line 1223, in __init__
+    self._client = http_client or AsyncHttpxClientWrapper(
+TypeError: AsyncClient.__init__() got an unexpected keyword argument 'proxies'
+
+CondaError: Run 'conda init' before 'conda activate'
+
+[32m2025-01-29 20:22:13.839[0m | [1mINFO    [0m | [36mmetagpt.const[0m:[36mget_metagpt_package_root[0m:[36m29[0m - [1mPackage root set to /home/mert/mlsys/meta_gpt/MetaGPT[0m
+[32m2025-01-29 20:22:16.365[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m140[0m - [1mDevelop a standard Gomoku game.[0m
+Task exception was never retrieved
+future: <Task finished name='Task-2' coro=<AsyncClient.aclose() done, defined at /home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/httpx/_client.py:1978> exception=AttributeError("'AsyncHttpxClientWrapper' object has no attribute '_state'")>
+Traceback (most recent call last):
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/httpx/_client.py", line 1982, in aclose
+    if self._state != ClientState.CLOSED:
+AttributeError: 'AsyncHttpxClientWrapper' object has no attribute '_state'
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 158, in <module>
+    fire.Fire(main)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/fire/core.py", line 141, in Fire
+    component_trace = _Fire(component, args, parsed_flag_args, context, name)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/fire/core.py", line 466, in _Fire
+    component, remaining_args = _CallAndUpdateTrace(
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/fire/core.py", line 679, in _CallAndUpdateTrace
+    component = loop.run_until_complete(fn(*varargs, **kwargs))
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/asyncio/base_events.py", line 649, in run_until_complete
+    return future.result()
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 145, in main
+    SimpleCoder(),
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 50, in __init__
+    super().__init__(**kwargs)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/pydantic/main.py", line 171, in __init__
+    self.__pydantic_validator__.validate_python(data, self_instance=self)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/roles/role.py", line 161, in validate_role_extra
+    self._process_role_extra()
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/roles/role.py", line 171, in _process_role_extra
+    self.llm.system_prompt = self._get_prefix()
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/context_mixin.py", line 95, in llm
+    self.private_llm = self.context.llm_with_cost_manager_from_llm_config(self.config.llm)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/context.py", line 107, in llm_with_cost_manager_from_llm_config
+    llm = create_llm_instance(llm_config)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/provider/llm_provider_registry.py", line 40, in create_llm_instance
+    return LLM_REGISTRY.get_provider(config.api_type)(config)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/provider/openai_api.py", line 49, in __init__
+    self._init_client()
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/provider/openai_api.py", line 58, in _init_client
+    self.aclient = AsyncOpenAI(**kwargs)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/openai/_client.py", line 306, in __init__
+    super().__init__(
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/openai/_base_client.py", line 1223, in __init__
+    self._client = http_client or AsyncHttpxClientWrapper(
+TypeError: AsyncClient.__init__() got an unexpected keyword argument 'proxies'
+
+CondaError: Run 'conda init' before 'conda activate'
+
+[32m2025-01-29 20:22:17.062[0m | [1mINFO    [0m | [36mmetagpt.const[0m:[36mget_metagpt_package_root[0m:[36m29[0m - [1mPackage root set to /home/mert/mlsys/meta_gpt/MetaGPT[0m
+[32m2025-01-29 20:22:19.604[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m140[0m - [1mDesign a chess game, allowing two players to take turns and determining the winner. It should be playable from Linux Terminal, and does not require me to access a dedicated UX or GUI platform, i.e. print the results on terminal at each stage and let me play it there by entering inputs (formal chess notation such as Ke8).[0m
+Task exception was never retrieved
+future: <Task finished name='Task-2' coro=<AsyncClient.aclose() done, defined at /home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/httpx/_client.py:1978> exception=AttributeError("'AsyncHttpxClientWrapper' object has no attribute '_state'")>
+Traceback (most recent call last):
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/httpx/_client.py", line 1982, in aclose
+    if self._state != ClientState.CLOSED:
+AttributeError: 'AsyncHttpxClientWrapper' object has no attribute '_state'
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 158, in <module>
+    fire.Fire(main)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/fire/core.py", line 141, in Fire
+    component_trace = _Fire(component, args, parsed_flag_args, context, name)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/fire/core.py", line 466, in _Fire
+    component, remaining_args = _CallAndUpdateTrace(
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/fire/core.py", line 679, in _CallAndUpdateTrace
+    component = loop.run_until_complete(fn(*varargs, **kwargs))
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/asyncio/base_events.py", line 649, in run_until_complete
+    return future.result()
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 145, in main
+    SimpleCoder(),
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 50, in __init__
+    super().__init__(**kwargs)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/pydantic/main.py", line 171, in __init__
+    self.__pydantic_validator__.validate_python(data, self_instance=self)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/roles/role.py", line 161, in validate_role_extra
+    self._process_role_extra()
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/roles/role.py", line 171, in _process_role_extra
+    self.llm.system_prompt = self._get_prefix()
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/context_mixin.py", line 95, in llm
+    self.private_llm = self.context.llm_with_cost_manager_from_llm_config(self.config.llm)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/context.py", line 107, in llm_with_cost_manager_from_llm_config
+    llm = create_llm_instance(llm_config)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/provider/llm_provider_registry.py", line 40, in create_llm_instance
+    return LLM_REGISTRY.get_provider(config.api_type)(config)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/provider/openai_api.py", line 49, in __init__
+    self._init_client()
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/provider/openai_api.py", line 58, in _init_client
+    self.aclient = AsyncOpenAI(**kwargs)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/openai/_client.py", line 306, in __init__
+    super().__init__(
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/openai/_base_client.py", line 1223, in __init__
+    self._client = http_client or AsyncHttpxClientWrapper(
+TypeError: AsyncClient.__init__() got an unexpected keyword argument 'proxies'
+
+CondaError: Run 'conda init' before 'conda activate'
+
+[32m2025-01-29 20:22:20.278[0m | [1mINFO    [0m | [36mmetagpt.const[0m:[36mget_metagpt_package_root[0m:[36m29[0m - [1mPackage root set to /home/mert/mlsys/meta_gpt/MetaGPT[0m
+[32m2025-01-29 20:22:22.760[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m140[0m - [1mDesign a standard 2048 game with 10*10 grids.[0m
+Task exception was never retrieved
+future: <Task finished name='Task-2' coro=<AsyncClient.aclose() done, defined at /home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/httpx/_client.py:1978> exception=AttributeError("'AsyncHttpxClientWrapper' object has no attribute '_state'")>
+Traceback (most recent call last):
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/httpx/_client.py", line 1982, in aclose
+    if self._state != ClientState.CLOSED:
+AttributeError: 'AsyncHttpxClientWrapper' object has no attribute '_state'
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 158, in <module>
+    fire.Fire(main)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/fire/core.py", line 141, in Fire
+    component_trace = _Fire(component, args, parsed_flag_args, context, name)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/fire/core.py", line 466, in _Fire
+    component, remaining_args = _CallAndUpdateTrace(
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/fire/core.py", line 679, in _CallAndUpdateTrace
+    component = loop.run_until_complete(fn(*varargs, **kwargs))
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/asyncio/base_events.py", line 649, in run_until_complete
+    return future.result()
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 145, in main
+    SimpleCoder(),
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 50, in __init__
+    super().__init__(**kwargs)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/pydantic/main.py", line 171, in __init__
+    self.__pydantic_validator__.validate_python(data, self_instance=self)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/roles/role.py", line 161, in validate_role_extra
+    self._process_role_extra()
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/roles/role.py", line 171, in _process_role_extra
+    self.llm.system_prompt = self._get_prefix()
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/context_mixin.py", line 95, in llm
+    self.private_llm = self.context.llm_with_cost_manager_from_llm_config(self.config.llm)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/context.py", line 107, in llm_with_cost_manager_from_llm_config
+    llm = create_llm_instance(llm_config)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/provider/llm_provider_registry.py", line 40, in create_llm_instance
+    return LLM_REGISTRY.get_provider(config.api_type)(config)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/provider/openai_api.py", line 49, in __init__
+    self._init_client()
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/provider/openai_api.py", line 58, in _init_client
+    self.aclient = AsyncOpenAI(**kwargs)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/openai/_client.py", line 306, in __init__
+    super().__init__(
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/openai/_base_client.py", line 1223, in __init__
+    self._client = http_client or AsyncHttpxClientWrapper(
+TypeError: AsyncClient.__init__() got an unexpected keyword argument 'proxies'
+
+CondaError: Run 'conda init' before 'conda activate'
+
+[32m2025-01-29 20:22:23.444[0m | [1mINFO    [0m | [36mmetagpt.const[0m:[36mget_metagpt_package_root[0m:[36m29[0m - [1mPackage root set to /home/mert/mlsys/meta_gpt/MetaGPT[0m
+[32m2025-01-29 20:22:25.972[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m140[0m - [1mDesigned for a roguelike game . it's a Tower of the Sorcerer like game .  Map size 80*80 Use keyboard keys W/S/A/D to control the player character up, down, left, right and right The character can walk on the floor The character can walk on the floor The character can go to the next level after touching a door The monster is judged by the character's hp - the monster's hp The hp is randomly restored to 20-30 hp after touching a treasure chest Cannot pass through a wall There must be at least one path from the starting position to the door.[0m
+Task exception was never retrieved
+future: <Task finished name='Task-2' coro=<AsyncClient.aclose() done, defined at /home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/httpx/_client.py:1978> exception=AttributeError("'AsyncHttpxClientWrapper' object has no attribute '_state'")>
+Traceback (most recent call last):
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/httpx/_client.py", line 1982, in aclose
+    if self._state != ClientState.CLOSED:
+AttributeError: 'AsyncHttpxClientWrapper' object has no attribute '_state'
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 158, in <module>
+    fire.Fire(main)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/fire/core.py", line 141, in Fire
+    component_trace = _Fire(component, args, parsed_flag_args, context, name)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/fire/core.py", line 466, in _Fire
+    component, remaining_args = _CallAndUpdateTrace(
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/fire/core.py", line 679, in _CallAndUpdateTrace
+    component = loop.run_until_complete(fn(*varargs, **kwargs))
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/asyncio/base_events.py", line 649, in run_until_complete
+    return future.result()
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 145, in main
+    SimpleCoder(),
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 50, in __init__
+    super().__init__(**kwargs)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/pydantic/main.py", line 171, in __init__
+    self.__pydantic_validator__.validate_python(data, self_instance=self)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/roles/role.py", line 161, in validate_role_extra
+    self._process_role_extra()
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/roles/role.py", line 171, in _process_role_extra
+    self.llm.system_prompt = self._get_prefix()
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/context_mixin.py", line 95, in llm
+    self.private_llm = self.context.llm_with_cost_manager_from_llm_config(self.config.llm)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/context.py", line 107, in llm_with_cost_manager_from_llm_config
+    llm = create_llm_instance(llm_config)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/provider/llm_provider_registry.py", line 40, in create_llm_instance
+    return LLM_REGISTRY.get_provider(config.api_type)(config)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/provider/openai_api.py", line 49, in __init__
+    self._init_client()
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/provider/openai_api.py", line 58, in _init_client
+    self.aclient = AsyncOpenAI(**kwargs)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/openai/_client.py", line 306, in __init__
+    super().__init__(
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/openai/_base_client.py", line 1223, in __init__
+    self._client = http_client or AsyncHttpxClientWrapper(
+TypeError: AsyncClient.__init__() got an unexpected keyword argument 'proxies'
+
+CondaError: Run 'conda init' before 'conda activate'
+
+[32m2025-01-29 20:22:26.643[0m | [1mINFO    [0m | [36mmetagpt.const[0m:[36mget_metagpt_package_root[0m:[36m29[0m - [1mPackage root set to /home/mert/mlsys/meta_gpt/MetaGPT[0m
+[32m2025-01-29 20:22:29.187[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m140[0m - [1mDesign a standard wordle game by providing a daily 5-letter English language word. The game should allow a player to take 6 turns to guess the word. Correct guess for each letter is colored by green (correct letter in correct position), grey for invalid letter, or yellow for correct letter in wrong position. It should be playable from Linux Terminal, and does not require me to access a dedicated UX or GUI platform, i.e. print the results on terminal at each stage and let me play it there by entering inputs. If the player guesses the word within the allowed number of attempts, they win. If not, the solution is revealed.[0m
+Task exception was never retrieved
+future: <Task finished name='Task-2' coro=<AsyncClient.aclose() done, defined at /home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/httpx/_client.py:1978> exception=AttributeError("'AsyncHttpxClientWrapper' object has no attribute '_state'")>
+Traceback (most recent call last):
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/httpx/_client.py", line 1982, in aclose
+    if self._state != ClientState.CLOSED:
+AttributeError: 'AsyncHttpxClientWrapper' object has no attribute '_state'
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 158, in <module>
+    fire.Fire(main)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/fire/core.py", line 141, in Fire
+    component_trace = _Fire(component, args, parsed_flag_args, context, name)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/fire/core.py", line 466, in _Fire
+    component, remaining_args = _CallAndUpdateTrace(
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/fire/core.py", line 679, in _CallAndUpdateTrace
+    component = loop.run_until_complete(fn(*varargs, **kwargs))
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/asyncio/base_events.py", line 649, in run_until_complete
+    return future.result()
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 145, in main
+    SimpleCoder(),
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 50, in __init__
+    super().__init__(**kwargs)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/pydantic/main.py", line 171, in __init__
+    self.__pydantic_validator__.validate_python(data, self_instance=self)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/roles/role.py", line 161, in validate_role_extra
+    self._process_role_extra()
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/roles/role.py", line 171, in _process_role_extra
+    self.llm.system_prompt = self._get_prefix()
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/context_mixin.py", line 95, in llm
+    self.private_llm = self.context.llm_with_cost_manager_from_llm_config(self.config.llm)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/context.py", line 107, in llm_with_cost_manager_from_llm_config
+    llm = create_llm_instance(llm_config)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/provider/llm_provider_registry.py", line 40, in create_llm_instance
+    return LLM_REGISTRY.get_provider(config.api_type)(config)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/provider/openai_api.py", line 49, in __init__
+    self._init_client()
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/provider/openai_api.py", line 58, in _init_client
+    self.aclient = AsyncOpenAI(**kwargs)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/openai/_client.py", line 306, in __init__
+    super().__init__(
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/openai/_base_client.py", line 1223, in __init__
+    self._client = http_client or AsyncHttpxClientWrapper(
+TypeError: AsyncClient.__init__() got an unexpected keyword argument 'proxies'
+
+CondaError: Run 'conda init' before 'conda activate'
+
+^C[?2004h(meta_gpt) [01;32mmert@bliss1[00m:[01;34m~/mlsys/meta_gpt/MetaGPT[00m$ ./run_metagpt.sh 
+[?2004l[32m2025-01-29 20:22:32.241[0m | [1mINFO    [0m | [36mmetagpt.const[0m:[36mget_metagpt_package_root[0m:[36m29[0m - [1mPackage root set to /home/mert/mlsys/meta_gpt/MetaGPT[0m
+[32m2025-01-29 20:22:34.751[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m140[0m - [1mDesign a tic-tac-toe game with a user-friendly interface, allowing two players to take turns and determining the winner.[0m
+Task exception was never retrieved
+future: <Task finished name='Task-2' coro=<AsyncClient.aclose() done, defined at /home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/httpx/_client.py:1978> exception=AttributeError("'AsyncHttpxClientWrapper' object has no attribute '_state'")>
+Traceback (most recent call last):
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/httpx/_client.py", line 1982, in aclose
+    if self._state != ClientState.CLOSED:
+AttributeError: 'AsyncHttpxClientWrapper' object has no attribute '_state'
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 158, in <module>
+    fire.Fire(main)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/fire/core.py", line 141, in Fire
+    component_trace = _Fire(component, args, parsed_flag_args, context, name)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/fire/core.py", line 466, in _Fire
+    component, remaining_args = _CallAndUpdateTrace(
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/fire/core.py", line 679, in _CallAndUpdateTrace
+    component = loop.run_until_complete(fn(*varargs, **kwargs))
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/asyncio/base_events.py", line 649, in run_until_complete
+    return future.result()
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 145, in main
+    SimpleCoder(),
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 50, in __init__
+    super().__init__(**kwargs)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/pydantic/main.py", line 171, in __init__
+    self.__pydantic_validator__.validate_python(data, self_instance=self)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/roles/role.py", line 161, in validate_role_extra
+    self._process_role_extra()
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/roles/role.py", line 171, in _process_role_extra
+    self.llm.system_prompt = self._get_prefix()
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/context_mixin.py", line 95, in llm
+    self.private_llm = self.context.llm_with_cost_manager_from_llm_config(self.config.llm)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/context.py", line 107, in llm_with_cost_manager_from_llm_config
+    llm = create_llm_instance(llm_config)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/provider/llm_provider_registry.py", line 40, in create_llm_instance
+    return LLM_REGISTRY.get_provider(config.api_type)(config)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/provider/openai_api.py", line 49, in __init__
+    self._init_client()
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/provider/openai_api.py", line 58, in _init_client
+    self.aclient = AsyncOpenAI(**kwargs)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/openai/_client.py", line 306, in __init__
+    super().__init__(
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/openai/_base_client.py", line 1223, in __init__
+    self._client = http_client or AsyncHttpxClientWrapper(
+TypeError: AsyncClient.__init__() got an unexpected keyword argument 'proxies'
+[32m2025-01-29 20:22:35.204[0m | [1mINFO    [0m | [36mmetagpt.const[0m:[36mget_metagpt_package_root[0m:[36m29[0m - [1mPackage root set to /home/mert/mlsys/meta_gpt/MetaGPT[0m
+[32m2025-01-29 20:22:37.665[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m140[0m - [1mDevelop a standard Gomoku game.[0m
+Task exception was never retrieved
+future: <Task finished name='Task-2' coro=<AsyncClient.aclose() done, defined at /home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/httpx/_client.py:1978> exception=AttributeError("'AsyncHttpxClientWrapper' object has no attribute '_state'")>
+Traceback (most recent call last):
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/httpx/_client.py", line 1982, in aclose
+    if self._state != ClientState.CLOSED:
+AttributeError: 'AsyncHttpxClientWrapper' object has no attribute '_state'
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 158, in <module>
+    fire.Fire(main)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/fire/core.py", line 141, in Fire
+    component_trace = _Fire(component, args, parsed_flag_args, context, name)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/fire/core.py", line 466, in _Fire
+    component, remaining_args = _CallAndUpdateTrace(
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/fire/core.py", line 679, in _CallAndUpdateTrace
+    component = loop.run_until_complete(fn(*varargs, **kwargs))
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/asyncio/base_events.py", line 649, in run_until_complete
+    return future.result()
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 145, in main
+    SimpleCoder(),
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 50, in __init__
+    super().__init__(**kwargs)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/pydantic/main.py", line 171, in __init__
+    self.__pydantic_validator__.validate_python(data, self_instance=self)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/roles/role.py", line 161, in validate_role_extra
+    self._process_role_extra()
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/roles/role.py", line 171, in _process_role_extra
+    self.llm.system_prompt = self._get_prefix()
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/context_mixin.py", line 95, in llm
+    self.private_llm = self.context.llm_with_cost_manager_from_llm_config(self.config.llm)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/context.py", line 107, in llm_with_cost_manager_from_llm_config
+    llm = create_llm_instance(llm_config)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/provider/llm_provider_registry.py", line 40, in create_llm_instance
+    return LLM_REGISTRY.get_provider(config.api_type)(config)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/provider/openai_api.py", line 49, in __init__
+    self._init_client()
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/provider/openai_api.py", line 58, in _init_client
+    self.aclient = AsyncOpenAI(**kwargs)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/openai/_client.py", line 306, in __init__
+    super().__init__(
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/openai/_base_client.py", line 1223, in __init__
+    self._client = http_client or AsyncHttpxClientWrapper(
+TypeError: AsyncClient.__init__() got an unexpected keyword argument 'proxies'
+[32m2025-01-29 20:22:38.101[0m | [1mINFO    [0m | [36mmetagpt.const[0m:[36mget_metagpt_package_root[0m:[36m29[0m - [1mPackage root set to /home/mert/mlsys/meta_gpt/MetaGPT[0m
+[32m2025-01-29 20:22:40.610[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m140[0m - [1mDesign a chess game, allowing two players to take turns and determining the winner. It should be playable from Linux Terminal, and does not require me to access a dedicated UX or GUI platform, i.e. print the results on terminal at each stage and let me play it there by entering inputs (formal chess notation such as Ke8).[0m
+Task exception was never retrieved
+future: <Task finished name='Task-2' coro=<AsyncClient.aclose() done, defined at /home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/httpx/_client.py:1978> exception=AttributeError("'AsyncHttpxClientWrapper' object has no attribute '_state'")>
+Traceback (most recent call last):
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/httpx/_client.py", line 1982, in aclose
+    if self._state != ClientState.CLOSED:
+AttributeError: 'AsyncHttpxClientWrapper' object has no attribute '_state'
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 158, in <module>
+    fire.Fire(main)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/fire/core.py", line 141, in Fire
+    component_trace = _Fire(component, args, parsed_flag_args, context, name)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/fire/core.py", line 466, in _Fire
+    component, remaining_args = _CallAndUpdateTrace(
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/fire/core.py", line 679, in _CallAndUpdateTrace
+    component = loop.run_until_complete(fn(*varargs, **kwargs))
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/asyncio/base_events.py", line 649, in run_until_complete
+    return future.result()
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 145, in main
+    SimpleCoder(),
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 50, in __init__
+    super().__init__(**kwargs)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/pydantic/main.py", line 171, in __init__
+    self.__pydantic_validator__.validate_python(data, self_instance=self)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/roles/role.py", line 161, in validate_role_extra
+    self._process_role_extra()
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/roles/role.py", line 171, in _process_role_extra
+    self.llm.system_prompt = self._get_prefix()
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/context_mixin.py", line 95, in llm
+    self.private_llm = self.context.llm_with_cost_manager_from_llm_config(self.config.llm)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/context.py", line 107, in llm_with_cost_manager_from_llm_config
+    llm = create_llm_instance(llm_config)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/provider/llm_provider_registry.py", line 40, in create_llm_instance
+    return LLM_REGISTRY.get_provider(config.api_type)(config)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/provider/openai_api.py", line 49, in __init__
+    self._init_client()
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/provider/openai_api.py", line 58, in _init_client
+    self.aclient = AsyncOpenAI(**kwargs)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/openai/_client.py", line 306, in __init__
+    super().__init__(
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/openai/_base_client.py", line 1223, in __init__
+    self._client = http_client or AsyncHttpxClientWrapper(
+TypeError: AsyncClient.__init__() got an unexpected keyword argument 'proxies'
+[32m2025-01-29 20:22:41.057[0m | [1mINFO    [0m | [36mmetagpt.const[0m:[36mget_metagpt_package_root[0m:[36m29[0m - [1mPackage root set to /home/mert/mlsys/meta_gpt/MetaGPT[0m
+[32m2025-01-29 20:22:43.552[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m140[0m - [1mDesign a standard 2048 game with 10*10 grids.[0m
+Task exception was never retrieved
+future: <Task finished name='Task-2' coro=<AsyncClient.aclose() done, defined at /home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/httpx/_client.py:1978> exception=AttributeError("'AsyncHttpxClientWrapper' object has no attribute '_state'")>
+Traceback (most recent call last):
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/httpx/_client.py", line 1982, in aclose
+    if self._state != ClientState.CLOSED:
+AttributeError: 'AsyncHttpxClientWrapper' object has no attribute '_state'
+Traceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 158, in <module>
+    fire.Fire(main)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/fire/core.py", line 141, in Fire
+    component_trace = _Fire(component, args, parsed_flag_args, context, name)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/fire/core.py", line 466, in _Fire
+    component, remaining_args = _CallAndUpdateTrace(
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/fire/core.py", line 679, in _CallAndUpdateTrace
+    component = loop.run_until_complete(fn(*varargs, **kwargs))
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/asyncio/base_events.py", line 649, in run_until_complete
+    return future.result()
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 145, in main
+    SimpleCoder(),
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 50, in __init__
+    super().__init__(**kwargs)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/pydantic/main.py", line 171, in __init__
+    self.__pydantic_validator__.validate_python(data, self_instance=self)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/roles/role.py", line 161, in validate_role_extra
+    self._process_role_extra()
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/roles/role.py", line 171, in _process_role_extra
+    self.llm.system_prompt = self._get_prefix()
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/context_mixin.py", line 95, in llm
+    self.private_llm = self.context.llm_with_cost_manager_from_llm_config(self.config.llm)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/context.py", line 107, in llm_with_cost_manager_from_llm_config
+    llm = create_llm_instance(llm_config)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/provider/llm_provider_registry.py", line 40, in create_llm_instance
+    return LLM_REGISTRY.get_provider(config.api_type)(config)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/provider/openai_api.py", line 49, in __init__
+    self._init_client()
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/provider/openai_api.py", line 58, in _init_client
+    self.aclient = AsyncOpenAI(**kwargs)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/openai/_client.py", line 306, in __init__
+    super().__init__(
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/openai/_base_client.py", line 1223, in __init__
+    self._client = http_client or AsyncHttpxClientWrapper(
+TypeError: AsyncClient.__init__() got an unexpected keyword argument 'proxies'
+[32m2025-01-29 20:22:44.001[0m | [1mINFO    [0m | [36mmetagpt.const[0m:[36mget_metagpt_package_root[0m:[36m29[0m - [1mPackage root set to /home/mert/mlsys/meta_gpt/MetaGPT[0m
+^[[A^CTraceback (most recent call last):
+  File "/home/mert/mlsys/meta_gpt/MetaGPT/examples/build_customized_multi_agents.py", line 10, in <module>
+    from metagpt.actions import Action, UserRequirement
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/actions/__init__.py", line 10, in <module>
+    from metagpt.actions.action import Action
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/actions/action.py", line 15, in <module>
+    from metagpt.actions.action_node import ActionNode
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/actions/action_node.py", line 21, in <module>
+    from metagpt.llm import BaseLLM
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/llm.py", line 11, in <module>
+    from metagpt.context import Context
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/context.py", line 16, in <module>
+    from metagpt.provider.base_llm import BaseLLM
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/provider/__init__.py", line 12, in <module>
+    from metagpt.provider.zhipuai_api import ZhiPuAILLM
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/metagpt/provider/zhipuai_api.py", line 8, in <module>
+    from zhipuai.types.chat.chat_completion import Completion
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/zhipuai/__init__.py", line 2, in <module>
+    from ._client import ZhipuAI
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/zhipuai/_client.py", line 9, in <module>
+    from .core._http_client import HttpClient, ZHIPUAI_DEFAULT_MAX_RETRIES
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/zhipuai/core/_http_client.py", line 21, in <module>
+    from ._request_opt import ClientRequestParam, UserRequestInput
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/zhipuai/core/_request_opt.py", line 25, in <module>
+    class ClientRequestParam(pydantic.BaseModel):
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/pydantic/_internal/_model_construction.py", line 183, in __new__
+    complete_model_class(
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/pydantic/_internal/_model_construction.py", line 517, in complete_model_class
+    schema = cls.__get_pydantic_core_schema__(cls, handler)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/pydantic/main.py", line 584, in __get_pydantic_core_schema__
+    return __handler(__source)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/pydantic/_internal/_schema_generation_shared.py", line 82, in __call__
+    schema = self._handler(__source_type)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/site-packages/pydantic/_internal/_generate_schema.py", line 492, in generate_schema
+    metadata_js_function = _extract_get_pydantic_json_schema(obj, schema)
+  File "/home/mert/.conda/envs/meta_gpt/lib/python3.10/si

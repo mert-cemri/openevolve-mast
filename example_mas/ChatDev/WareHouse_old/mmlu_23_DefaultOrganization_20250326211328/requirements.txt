@@ -1,0 +1,2 @@
+# Include xvfbwrapper if you are using it for headless environments
+# xvfbwrapper

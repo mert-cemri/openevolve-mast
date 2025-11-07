@@ -1,0 +1,9 @@
+# External dependencies for the Environment Variable Manager project
+# tkinter is included with Python but may need to be installed separately on some systems
+# Note: argparse is part of the Python standard library and does not need to be listed
+
+# tkinter is included with Python installations on Windows and macOS.
+# On some Linux distributions, you might need to install it separately using the package manager.
+# For example, on Ubuntu, you can use: sudo apt-get install python3-tk
+
+# Since tkinter is not typically listed in requirements.txt, it is mentioned here for completeness.

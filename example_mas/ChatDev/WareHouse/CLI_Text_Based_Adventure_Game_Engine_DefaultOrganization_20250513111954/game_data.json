@@ -1,0 +1,29 @@
+{
+    "rooms": [
+        {
+            "name": "start",
+            "description": "You are in a small room. There is a door to the north.",
+            "items": [],
+            "choices": {
+                "north": "hallway"
+            }
+        },
+        {
+            "name": "hallway",
+            "description": "You are in a long hallway. There are doors to the south and east.",
+            "items": [],
+            "choices": {
+                "south": "start",
+                "east": "treasure_room"
+            }
+        },
+        {
+            "name": "treasure_room",
+            "description": "You have found the treasure room! Congratulations!",
+            "items": ["gold", "jewels"],
+            "choices": {
+                "west": "hallway"
+            }
+        }
+    ]
+}

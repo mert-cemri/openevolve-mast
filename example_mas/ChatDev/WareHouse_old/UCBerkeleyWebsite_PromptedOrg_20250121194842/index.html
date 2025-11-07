@@ -1,0 +1,33 @@
+'''
+Main HTML structure for the UC Berkeley landing page.
+'''
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UC Berkeley</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header role="banner">
+        <div id="navbar" role="navigation"></div>
+    </header>
+    <main role="main">
+        <section id="hero" aria-label="Welcome to UC Berkeley">
+            <h1>Welcome to UC Berkeley</h1>
+            <p>Leading the way in research and education.</p>
+        </section>
+        <section id="news" aria-label="Latest News and Events">
+            <h2>Latest News & Events</h2>
+            <div id="news-container"></div>
+        </section>
+    </main>
+    <footer role="contentinfo">
+        <p>&copy; 2023 UC Berkeley</p>
+    </footer>
+    <script src="navbar.js"></script>
+    <script src="news.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

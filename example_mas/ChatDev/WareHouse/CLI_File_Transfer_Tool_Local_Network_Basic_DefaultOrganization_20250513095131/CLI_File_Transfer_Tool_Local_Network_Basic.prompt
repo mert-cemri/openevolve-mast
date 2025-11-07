@@ -1,0 +1,1 @@
+Create a basic CLI file transfer tool for a local network. Allows sending a file from one machine (client) to another (server) running a corresponding receiver script.

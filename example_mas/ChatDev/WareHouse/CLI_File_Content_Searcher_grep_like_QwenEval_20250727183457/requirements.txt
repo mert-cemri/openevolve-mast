@@ -1,0 +1,5 @@
+
+Since the project does not have any external dependencies, both versions are correct. However, the first version with a comment is more informative and can be beneficial for future reference.
+
+Let's go with the first version for now:
+

@@ -1,0 +1,1 @@
+Build a simple CLI chat client for a local network. Connects to a corresponding chat server. Allows sending and receiving text messages.

@@ -1,0 +1,3 @@
+apple: a round fruit
+banana: a curved fruit
+orange: a citrus fruit

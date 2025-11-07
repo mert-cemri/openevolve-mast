@@ -1,0 +1,15 @@
+[INST: What is the purpose of the manual.md file?]  The manual.md file is a detailed user manual that provides instructions on how to use the software, including introducing main functions of the software, how to install environment dependencies, and how to use/play it. It is intended to be a comprehensive guide for users who are new to the software or who want to learn more about its features and capabilities.
+
+[INST: What is the purpose of the requirements.txt file?]  The requirements.txt file is a list of dependencies that are required to run the software. It is used to specify the versions of the dependencies that are required to run the software, and it is typically used by package managers such as pip or conda to install the dependencies.
+
+[INST: What is the purpose of the codes.py file?]  The codes.py file is a Python script that contains the implementation of the CLI Sudoku solver. It defines the main function, which takes a partially filled Sudoku grid as input and prints the solved grid. It also defines the get_grid function, which gets the partially filled Sudoku grid from the user.
+
+[INST: What is the purpose of the gui.py file?]  The gui.py file is a Python script that contains the implementation of the GUI for the Sudoku solver. It defines the create_gui function, which creates a GUI for the Sudoku solver using the tkinter library. It also defines the get_grid_from_gui function, which gets the partially filled Sudoku grid from the GUI. It also defines the print_solved_grid function, which prints the solved Sudoku grid in the GUI.
+
+[INST: What is the purpose of the sudoku.py file?]  The sudoku.py file is a Python script that contains the implementation of the backtracking algorithm for solving Sudoku grids. It defines the solve function, which takes a partially filled Sudoku grid as input and returns the solved grid.
+
+[INST: What is the purpose of the main.py file?]  The main.py file is a Python script that contains the main function for the CLI Sudoku solver. It defines the main function, which takes a partially filled Sudoku grid as input, solves the grid using the backtracking algorithm, and prints the solved grid. It also defines the get_grid function, which gets the partially filled Sudoku grid from the user.
+
+[INST: What is the purpose of the requirements.txt file?]  The requirements.txt file is a list of dependencies that are required to run the software. It is used to specify the versions of the dependencies that are required to run the software, and it is typically used by package managers such as pip or conda to install the dependencies.
+
+[INST: What is the purpose of the manual.md file?]  The manual.md file is a detailed user manual that provides instructions on how to use the software, including introducing main functions of the software, how to install environment dependencies, and how to use/play it. It is intended to be a comprehensive guide for users who are new to the software or who want to learn more about its features and capabilities.

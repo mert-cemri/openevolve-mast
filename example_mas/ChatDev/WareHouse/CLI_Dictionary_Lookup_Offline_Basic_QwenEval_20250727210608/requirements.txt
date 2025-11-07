@@ -1,0 +1,6 @@
+ChatDev_Dictionary_Tool/
+│
+├── main.py
+├── dictionary.py
+├── dictionary.txt
+└── requirements.txt

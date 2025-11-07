@@ -1,0 +1,40 @@
+Task:
+Create a CLI memory usage monitor that displays overall system memory usage and optionally lists top memory-consuming processes. (e.g. using /proc/meminfo and /proc/[pid]/status).
+
+Config:
+ChatEnvConfig.with_memory: False
+ChatEnvConfig.clear_structure: True
+ChatEnvConfig.git_management: False
+ChatEnvConfig.gui_design: True
+ChatEnvConfig.incremental_develop: False
+ChatEnvConfig.background_prompt: ChatDev is a software company powered by multiple intelligent agents, such as chief executive officer, chief human resources officer, chief product officer, chief technology officer, etc, with a multi-agent organizational structure and the mission of 'changing the digital world through programming'.
+
+
+Roster:
+Chief Executive Officer, Counselor, Chief Human Resource Officer, Chief Product Officer, Chief Technology Officer, Programmer, Code Reviewer, Software Test Engineer, Chief Creative Officer
+
+Modality:
+application
+
+Ideas:
+
+
+Language:
+ 1. **Readability and Ease of Use**: Python is renowned for its readability and ease of use, which makes it an excellent choice for rapid development and maintenance. This is particularly important for a CLI tool that needs to be developed quickly and maintained easily.
+2. **Performance**: While Python is not the fastest language, for a tool that reads from `/proc/meminfo` and `/proc/[pid]/status`, the performance difference between Python and a compiled language like C or C++ is likely negligible. The primary operations involve I/O operations, which are not significantly impacted by the language choice.
+3. **Libraries**: Python has a rich ecosystem of libraries, including `psutil`, which simplifies the task of accessing system and process memory usage information. This can significantly speed up development time and reduce the likelihood of errors.
+4. **Cross-Platform**: Although the task is Linux-specific, Python's cross-platform capabilities can be beneficial if there is a future need to extend the tool to other operating systems. This flexibility can be a valuable asset.
+
+Given these considerations, Python remains the best choice for this task.
+
+Python
+
+Code_Version:
+8.0
+
+Proposed_images:
+0
+
+Incorporated_images:
+0
+

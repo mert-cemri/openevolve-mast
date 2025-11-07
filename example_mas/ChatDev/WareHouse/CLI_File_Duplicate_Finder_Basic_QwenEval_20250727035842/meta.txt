@@ -1,0 +1,59 @@
+Task:
+Build a CLI program to find duplicate files within a specified directory based on their content (e.g., using MD5 or SHA256 hashes). List the paths of duplicate files.
+
+Config:
+ChatEnvConfig.with_memory: False
+ChatEnvConfig.clear_structure: True
+ChatEnvConfig.git_management: False
+ChatEnvConfig.gui_design: True
+ChatEnvConfig.incremental_develop: False
+ChatEnvConfig.background_prompt: ChatDev is a software company powered by multiple intelligent agents, such as chief executive officer, chief human resources officer, chief product officer, chief technology officer, etc, with a multi-agent organizational structure and the mission of 'changing the digital world through programming'.
+
+
+Roster:
+Chief Executive Officer, Counselor, Chief Human Resource Officer, Chief Product Officer, Chief Technology Officer, Programmer, Code Reviewer, Software Test Engineer, Chief Creative Officer
+
+Modality:
+the: chat
+
+: chat
+
+
+
+
+
+: chat
+: chat
+: chat
+: chat: chat
+
+: chat
+: chat
+: chat
+: chat
+: chat
+: chat: chat
+: chat
+: chat
+
+: chat: chat
+: chat
+: chat: chat: chat
+: chat: chat: chat: chat: the task: chat> application: chat: the: chat: chat: the: chat: chat: chat: the: the: the: the: the: the: the task: the: the: the task: the: the: chat: the: the: the: the: the: the: the: chat: the: the: chat: the: chat: the task: the: the: the: the: chat: chat: chat: chat: chat: chat: the: the: chat: the: chat: chat: <info: <info: <info: chat: <info: the primary: the: the: <info: the: chat: the: the: chat: chat: <info: chat: chat: chat: chat: chat: chat: <info: chat> application: the primary: the: <info: chat> application: <info: chat: chat: chat: chat: <info: chat: chat: chat: <info: chat: <info: <info: chat: chat: <info: the: chat: <info: <info: chat: <info: chat: chat: chat: chat: chat: chat: chat: chat: <info: chat: chat: chat: chat: chat: the: the: the: the: chat: chat: chat: chat: chat: the: the: chat: chat: <info: chat: <info: chat: chat: the: chat: chat: the: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: the: the: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat> application: chat: chat: chat: chat: chat: chat: chat: chat: chat: the: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: the: chat: chat: chat: chat: chat: chat to find: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: the: chat: chat: chat: chat: chat: chat: the: the: chat: chat: the: the: chat: chat: chat: chat: chat: chat: chat: chat: the: the: chat: chat: chat: chat: chat: the: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: the: chat: chat: chat: chat: chat: chat: chat: the: the: chat: chat: chat: chat: chat: the: the: chat: chat: the: chat: chat: chat: chat: chat: the: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat
+ the task: chat: chat: chat: the: chat: chat: chat: chat: chat: chat: chat: chat: chat: chat: the: chat: chat: chat: chat: chat: the: the: the: chat: the: the: chat: the: chat: chat: chat: the: the: the: the: the: the: the: the: chat: chat: the: the: chat: chat: the: chat: chat: the: chat: chat: chat: the: chat: chat: chat: the: the: the: the: the: chat: the: the: chat: chat: the: chat: chat: the: the: the: the: the: chat: chat: the: the: the: chat: the: the: chat: chat: chat: the: chat: chat: chat: chat: chat: the: chat: chat: the: chat: chat: chat: chat: chat: chat: chat: chat: chat: the: the: the: the: chat: chat: chat: chat: chat: chat: the: the: the: chat: chat: the: chat: chat: the: chat: the: the: the: chat: the: the: chat: chat: chat: the: chat: the: the: chat: chat: the: chat: chat: the: the: chat: chat: the: chat: chat: chat: the: the: chat: chat: the: chat: the task: the: chat: chat: the: the: the: the: the: chat: the: the: the: the: the: the: chat: the: the: chat: chat: the: the: chat> application: the: the: chat: the: the: the: the: the: the: the: chat: the: the: chat: the: the: the: the: the: chat: the: the: chat: chat: the: the: the: the: the: the: the: the: the: the: the: the: the: the: the: the: chat: the: the: the: the: the: the: the: the: alright: the: the: the: the primary requirement is to build a cli program to find duplicate files based on content, not not md: chat: chat: chat: chat: chat: chat: chat: the task: chat: the task to find: chat: the: chat: chat: the: chat: chat: chat: the primary: the: the: the primary: chat: the: the: the: the primary files within: the primary: the primary: the primary: the primary: the primary: the: chat: the primary: the primary: chat: the primary: the: the primary: the: chat: chat: the primary: the: chat: the primary> application: the: the primary: the:
+
+Ideas:
+
+
+Language:
+  Python
+
+Code_Version:
+4.0
+
+Proposed_images:
+0
+
+Incorporated_images:
+0
+

@@ -1,0 +1,1110 @@
+Task:
+Write a simple CLI HTTP server that serves static files (HTML, CSS, JS, images) from a specified local directory. Listens on a configurable port.
+
+Config:
+ChatEnvConfig.with_memory: False
+ChatEnvConfig.clear_structure: True
+ChatEnvConfig.git_management: False
+ChatEnvConfig.gui_design: True
+ChatEnvConfig.incremental_develop: False
+ChatEnvConfig.background_prompt: ChatDev is a software company powered by multiple intelligent agents, such as chief executive officer, chief human resources officer, chief product officer, chief technology officer, etc, with a multi-agent organizational structure and the mission of 'changing the digital world through programming'.
+
+
+Roster:
+Chief Executive Officer, Counselor, Chief Human Resource Officer, Chief Product Officer, Chief Technology Officer, Programmer, Code Reviewer, Software Test Engineer, Chief Creative Officer
+
+Modality:
+,
+
+ d0 " d d d d## 
+ a
+ of[
+ , 4 of4 the,
+
+
+
+
+
+ a d
+
+ 
+
+
+ the2 "  d0 d
+ to4 dbaby
+4 dthe3 
+
+40
+,
+-
+
+
+ d
+ a d
+ d the4 d
+ the  d  d,  d
+
+4a
+ dthe
+ 
+ a cloud to
+-
+
+ d
+
+ d d d a of 
+ d
+
+
+ a d d , d d d
+[
+ a,4                d4
+0,,0
+4
+
+
+ a d
+ 4"
+ dura
+0 d d0-,
+ d 
+ay and2'ary [4 ad--(
+[
+
+-
+
+ d d the dthe4- a
+
+ [ d d
+ d## the
+ a
+4[
+ a0
+4 4 of4 the,
+ to
+
+
+
+[ d d
+
+ 
+
+00,b d d d##
+d d
+ of
+ d 
+4,4 of
+ the,
+
+
+
+
+
+ [ d
+
+d
+
+ d
+
+[ d  a## 
+ acomd
+
+ a d
+4
+4 of4 the of
+
+
+ 
+
+ a d
+
+,
+
+ d4,[ d  d## d
+ (
+ of[
+ a d
+4
+4 of4 the to
+
+
+ and
+
+ [ d
+
+,
+
+
+ 2,[ d  d## 
+ a
+ of
+4 a d
+4
+4 of4 the to
+
+
+ the
+
+ a a
+
+,
+
+
+24,[ d
+ d##
+
+ d
+ of
+4 d
+
+4
+4 of4 the of
+
+
+
+
+
+ a a
+
+ 
+
+ d0,[ d d d##   d
+4
+4 a d
+4
+4 of4 the of
+ d
+
+
+
+ [ d
+
+—
+
+ d4,2 d d d## 
+ a
+4
+4 
+4
+4 of4 the of
+
+
+
+
+
+ a a
+
+
+ d
+0
+,[ d  d##
+
+ d
+4
+4 
+4
+4 of4 the of
+
+
+
+
+
+ i d
+
+
+
+ d4,[ d
+ d
+ to" i
+ d
+ ad the 
+
+ of4 the,
+ations
+
+   
+ d4
+0
+ d d
+4,
+
+ ##  d d
+44 a-
+ 
+ 40 d to
+2
+
+
+
+ 
+ d
+ , the
+ a
+ _ a
+  ,'
+
+Ideas:
+
+
+Language:
+ \\
+ file
+
+
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+ of
+
+
+
+
+
+
+ local
+
+
+
+
+.
+
+
+
+
+
+
+
+
+
+ of
+
+
+
+
+
+
+
+
+
+,
+ the
+
+
+
+
+
+
+
+
+
+
+
+
+..
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4
+
+
+
+
+
+
+
+
+
+,
+
+. 
+s
+ 
+
+
+'
+,
+ of
+[
+
+
+
+
+
+
+
+,
+
+
+
+
+
+
+
+
+
+ 
+
+ of,
+
+
+
+
+
+
+
+:
+
+
+
+
+
+
+
+
+
+
+
+
+
+,
+4
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+
+
+
+,
+
+5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ of
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+
+
+
+
+
+
+
+
+
+
+
+ f
+
+
+,
+:
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ of
+
+
+. to
+
+
+
+
+
+
+
+ d
+
+(.
+
+
+
+
+.
+
+
+
+
+
+
+
+ of
+
+ 
+
+
+
+
+
+
+.
+
+
+
+
+
+
+
+
+
+
+
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ of
+:
+
+
+
+
+
+
+
+
+
+
+.
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,
+
+-
+
+
+
+
+
+ of
+.
+ ,
+
+
+,,
+
+
+
+
+
+e
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ f of
+.,.0
+.',
+
+,
+.,
+1
+  un
+-
+ of
+
+
+ 
+
+ay
+
+
+ ( 
+
+
+
+
+
+
+
+ to
+.
+ ,
+
+
+
+,
+
+
+
+
+. that
+,
+!
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+ of
+
+
+,
+
+
+
+
+
+.1
+
+
+.
+
+
+
+
+
+
+ 
+
+
+
+ d
+
+
+
+
+.
+
+
+,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+ 
+
+
+
+
+
+
+4
+
+,
+0
+
+
+
+
+
+
+
+ 
+.
+
+
+
+
+
+
+
+
+
+
+:
+
+
+
+
+
+
+ of(
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+,
+
+1
+:
+
+
+
+.
+
+if
+
+3
+
+ 
+
+
+
+
+
+
+
+
+
+'
+4
+
+
+.
+
+,
+
+
+
+.
+
+.
+
+
+
+
+
+
+
+
+
+
+.
+
+
+
+
+.
+1
+
+
+
+
+
+
+
+
+_,
+
+ to
+. d
+.
+
+
+
+
+—.
+
+
+ 
+
+
+
+.
+
+
+
+
+ 
+
+
+
+Code_Version:
+3.0
+
+Proposed_images:
+0
+
+Incorporated_images:
+0
+

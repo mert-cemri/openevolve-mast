@@ -1,0 +1,9 @@
+'''
+This module defines the Piece class, which represents a single piece on the board.
+'''
+class Piece:
+    def __init__(self, color):
+        self.color = color
+        self.is_king = False
+    def make_king(self):
+        self.is_king = True

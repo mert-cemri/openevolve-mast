@@ -1,0 +1,1 @@
+Write a basic CLI client for a language translation API (e.g., Google Translate API with a free tier or other). User inputs text and target language, tool outputs translation.

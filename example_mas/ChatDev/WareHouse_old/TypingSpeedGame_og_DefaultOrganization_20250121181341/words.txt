@@ -1,0 +1,13 @@
+'''
+A list of words or phrases for the typing practice game.
+'''
+hello
+world
+python
+programming
+developer
+keyboard
+practice
+speed
+accuracy
+challenge

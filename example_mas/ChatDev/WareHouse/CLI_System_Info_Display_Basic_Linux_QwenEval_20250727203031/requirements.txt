@@ -1,0 +1,5 @@
+
+Since the project is simple and relies only on built-in modules, either of these approaches is fine. I would recommend the first approach as it provides a clear comment explaining the situation.
+
+Let's go with the first approach:
+

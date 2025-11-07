@@ -1,0 +1,5 @@
+
+This comment clearly indicates that the project does not rely on any third-party packages and that all necessary functionality is provided by Python's standard library.
+
+Let's create this file and ensure it's included in the project repository. Here's the command to create the `requirements.txt` file with the specified content:
+

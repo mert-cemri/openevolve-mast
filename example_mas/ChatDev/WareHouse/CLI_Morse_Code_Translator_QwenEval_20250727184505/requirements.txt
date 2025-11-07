@@ -1,0 +1,2 @@
+# Morse Code Translator CLI
+# No external dependencies required

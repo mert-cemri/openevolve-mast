@@ -1,0 +1,5 @@
+
+Both approaches are acceptable, but I recommend including the comment for clarity and future reference.
+
+Let's proceed with creating the `requirements.txt` file with the comment:
+

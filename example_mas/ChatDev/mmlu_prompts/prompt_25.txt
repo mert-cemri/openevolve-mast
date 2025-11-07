@@ -1,0 +1,12 @@
+The following are multiple choice questions (with answers) about high_school_computer_science. Think step by step and then output the answer in the format of "The answer is (X)" at the end. X is the index of the answer (either 0, 1, 2, or 3) 
+
+Question: This question is based on the following declarations: String strA = "CARROT", strB = "Carrot", strC = "car"; Given that all uppercase letters precede all lowercase letters when considering alphabetical order, which is true?
+
+0. strA.compareTo(strB) < 0 && strB.compareTo(strC) > 0
+1. strC.compareTo(strB) < 0 && strB.compareTo(strA) < 0
+2. strB.compareTo(strC) < 0 && strB.compareTo(strA) > 0
+3. !(strA.compareTo(strB) == 0) && strB.compareTo(strA) < 0
+
+Answer: 
+
+Correct answer index: 2

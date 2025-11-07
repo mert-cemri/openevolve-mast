@@ -1,0 +1,1 @@
+Write a simple CLI data plotter that takes a list of numbers (e.g., from a file or stdin) and generates a basic text-based bar chart or line graph in the terminal.

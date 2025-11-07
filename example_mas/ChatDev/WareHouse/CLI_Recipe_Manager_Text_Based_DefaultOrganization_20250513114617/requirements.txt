@@ -1,0 +1,4 @@
+# No external dependencies required
+
+# Python version
+python>=3.6

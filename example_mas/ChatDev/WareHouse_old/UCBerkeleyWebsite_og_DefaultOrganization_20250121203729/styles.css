@@ -1,0 +1,38 @@
+'''
+This CSS file contains styles for the UC Berkeley Landing Page, including layout and color schemes.
+'''
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header, footer {
+    background-color: #003262;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+    background-color: #FDB515;
+    padding: 10px;
+}
+nav a {
+    color: #003262;
+    text-decoration: none;
+    font-weight: bold;
+}
+main {
+    padding: 20px;
+}
+.news-section {
+    margin-top: 20px;
+}
+.news-item {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}

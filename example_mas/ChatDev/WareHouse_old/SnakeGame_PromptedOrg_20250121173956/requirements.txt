@@ -1,0 +1,2 @@
+# If running on Windows, you may need the following package
+windows-curses

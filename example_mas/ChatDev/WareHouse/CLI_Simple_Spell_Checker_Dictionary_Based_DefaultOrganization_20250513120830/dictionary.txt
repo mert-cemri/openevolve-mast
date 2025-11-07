@@ -1,0 +1,13 @@
+'''
+A text file containing a list of correctly spelled words, one per line.
+'''
+apple
+banana
+orange
+grape
+watermelon
+strawberry
+blueberry
+kiwi
+pineapple
+mango

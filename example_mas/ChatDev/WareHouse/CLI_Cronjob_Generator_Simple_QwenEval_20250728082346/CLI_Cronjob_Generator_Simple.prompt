@@ -1,0 +1,1 @@
+Build a CLI cronjob generator. Provides a user-friendly way to create common cron job schedules (e.g., daily at 3 AM, every 15 minutes) and outputs the crontab line.

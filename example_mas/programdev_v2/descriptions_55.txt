@@ -1,0 +1,1 @@
+Build a basic one-way directory synchronizer. It copies new or modified files from a source directory to a target directory. Does not delete files from target if removed from source.

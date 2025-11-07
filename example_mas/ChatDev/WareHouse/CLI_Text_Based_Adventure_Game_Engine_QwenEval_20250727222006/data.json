@@ -1,0 +1,28 @@
+{
+    "start_room": "hall",
+    "rooms": [
+        {
+            "name": "hall",
+            "description": "You are in a long hall with doors to the north and east.",
+            "choices": {
+                "north": "kitchen",
+                "east": "dining room"
+            }
+        },
+        {
+            "name": "kitchen",
+            "description": "You are in a cozy kitchen with a wooden table.",
+            "items": ["key"],
+            "choices": {
+                "south": "hall"
+            }
+        },
+        {
+            "name": "dining room",
+            "description": "You are in a dining room with a large table.",
+            "choices": {
+                "west": "hall"
+            }
+        }
+    ]
+}

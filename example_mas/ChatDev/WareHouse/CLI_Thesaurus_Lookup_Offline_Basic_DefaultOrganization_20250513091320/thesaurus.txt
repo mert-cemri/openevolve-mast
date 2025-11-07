@@ -1,0 +1,2 @@
+happy:joyful,content:sad,unhappy
+sad:unhappy,down:happy,joyful

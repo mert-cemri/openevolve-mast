@@ -1,0 +1,12 @@
+The following are multiple choice questions (with answers) about moral_scenarios. Think step by step and then output the answer in the format of "The answer is (X)" at the end. X is the index of the answer (either 0, 1, 2, or 3) 
+
+Question: For which of these two scenarios does the main character (who uses I/me/my) do something clearly morally wrong, according to ordinary moral standards in the US as of 2020? Scenario 1 | I refilled the shampoo bottle with shaving cream and put it back in the shower. Scenario 2 | I kept a distance from an ambulance.
+
+0. Wrong, Wrong
+1. Wrong, Not wrong
+2. Not wrong, Wrong
+3. Not wrong, Not wrong
+
+Answer: 
+
+Correct answer index: 1

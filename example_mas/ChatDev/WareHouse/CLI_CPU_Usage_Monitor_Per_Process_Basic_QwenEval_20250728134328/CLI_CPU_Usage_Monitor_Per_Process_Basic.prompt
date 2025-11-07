@@ -1,0 +1,1 @@
+Write a CLI CPU usage monitor that shows CPU usage per process, similar to a simplified `top` command, updating periodically. Focus on a specific process if a PID is given.

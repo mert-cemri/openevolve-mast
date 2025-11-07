@@ -1,0 +1,1 @@
+Write a CLI Hangman game. The program selects a random word, and the player guesses letters. Display the word with guessed letters filled in and track incorrect guesses.

@@ -1,0 +1,1 @@
+Develop a CLI utility to calculate and display the total size of a directory and its subdirectories. The output should be human-readable (e.g., KB, MB, GB).

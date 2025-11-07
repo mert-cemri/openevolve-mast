@@ -1,0 +1,1 @@
+Build a CLI tool to encode and decode strings using Base64. The user provides the input string and specifies whether to encode or decode.

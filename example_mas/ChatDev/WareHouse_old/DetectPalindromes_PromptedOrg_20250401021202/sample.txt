@@ -1,0 +1,6 @@
+'''
+Sample text file containing potential palindromes for testing.
+'''
+Madam Arora teaches malayalam.
+Was it a car or a cat I saw?
+No lemon, no melon.

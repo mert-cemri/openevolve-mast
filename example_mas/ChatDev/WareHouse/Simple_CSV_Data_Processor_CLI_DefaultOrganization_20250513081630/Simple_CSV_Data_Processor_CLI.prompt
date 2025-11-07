@@ -1,0 +1,1 @@
+Build a CLI program that reads a CSV file, allows the user to specify a column name, and then prints all unique values from that column. The program should handle CSV files with headers.

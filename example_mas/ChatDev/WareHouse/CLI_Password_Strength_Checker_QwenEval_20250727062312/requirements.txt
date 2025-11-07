@@ -1,0 +1,5 @@
+
+This is a good practice because it sets up the project structure for future growth and makes it clear that any additional dependencies will be managed through this file.
+
+If we were to add any third-party libraries in the future, we would update this file accordingly. For example, if we decided to use a logging library like `loguru`, the `requirements.txt` file would look like this:
+

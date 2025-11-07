@@ -1,0 +1,1 @@
+Write a basic CLI text difference tool (like a simplified `diff`). It takes two text file paths as input and highlights the lines that are different.

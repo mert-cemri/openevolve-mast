@@ -1,0 +1,2 @@
+# This project does not require any external Python packages at the moment.
+# Please update this file if any dependencies are added in the future.

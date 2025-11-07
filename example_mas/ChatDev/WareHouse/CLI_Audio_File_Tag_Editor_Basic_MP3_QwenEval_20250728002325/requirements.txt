@@ -1,0 +1,7 @@
+
+### Explanation
+- **mutagen>=1.45.1**: This specifies that the `mutagen` library should be installed, and it should be version 1.45.1 or any newer version. This ensures that the project has the necessary functionality to read and write ID3 tags in MP3 files.
+
+### Usage
+To install the dependencies listed in the `requirements.txt` file, you can use the following command in your terminal:
+

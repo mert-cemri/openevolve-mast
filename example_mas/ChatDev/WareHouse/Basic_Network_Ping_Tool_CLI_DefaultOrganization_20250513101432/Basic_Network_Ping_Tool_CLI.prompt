@@ -1,0 +1,1 @@
+Implement a basic CLI network ping tool. The user provides an IP address or hostname, and the tool sends a configurable number of ICMP echo requests, displaying the round-trip time for each and a summary.

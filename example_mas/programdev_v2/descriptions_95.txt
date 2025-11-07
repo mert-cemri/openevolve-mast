@@ -1,0 +1,1 @@
+Build a simple CLI spell checker that takes a text file or string input and checks words against a local dictionary file, highlighting potential misspellings.

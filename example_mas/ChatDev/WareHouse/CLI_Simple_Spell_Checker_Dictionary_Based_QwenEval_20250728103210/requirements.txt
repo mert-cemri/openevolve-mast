@@ -1,0 +1,5 @@
+
+This approach is clear and informative, and it sets the stage for future modifications to the project.
+
+If you prefer to keep the `requirements.txt` file completely empty, that's also acceptable:
+

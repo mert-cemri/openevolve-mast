@@ -1,0 +1,7 @@
+
+This comment clearly states that the project does not require any external dependencies and relies only on Python's standard library.
+
+Alternatively, if you prefer to keep the `requirements.txt` file completely empty, that's also acceptable. However, the commented version provides more clarity.
+
+Let's proceed with the commented version for better clarity:
+

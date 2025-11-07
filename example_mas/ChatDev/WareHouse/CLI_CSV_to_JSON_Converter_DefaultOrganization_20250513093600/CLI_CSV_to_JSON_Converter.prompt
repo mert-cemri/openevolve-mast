@@ -1,0 +1,1 @@
+Write a CLI utility to convert a CSV file to a JSON file. Each row in the CSV becomes a JSON object. User provides input CSV and output JSON paths.

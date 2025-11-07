@@ -1,0 +1,7 @@
+numpy==1.19.2
+pandas>=1.1.4
+mutagen==1.45.1
+tkinter==8.6.10
+filedialog==1.0.0
+messagebox==1.0.0
+ttk==8.6.10

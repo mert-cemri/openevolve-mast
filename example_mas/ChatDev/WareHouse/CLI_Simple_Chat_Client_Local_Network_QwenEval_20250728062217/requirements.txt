@@ -1,0 +1,5 @@
+
+This file should be created in the root directory of your project alongside the `main.py`, `chat_client.py`, and `chat_ui.py` files.
+
+Here's the final `requirements.txt` file:
+

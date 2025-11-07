@@ -1,0 +1,5 @@
+# Requirements for Classic Snake Game
+
+# curses is built-in on Unix-based systems; no installation required.
+# For Windows users, install windows-curses:
+windows-curses; platform_system=="Windows"

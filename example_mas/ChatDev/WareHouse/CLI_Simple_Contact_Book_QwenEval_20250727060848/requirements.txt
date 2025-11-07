@@ -1,0 +1,5 @@
+
+Both approaches are acceptable. Including a comment as shown in the first example can be helpful for clarity, especially in larger projects where dependencies might be added later. However, for this simple project, an empty `requirements.txt` file is perfectly fine.
+
+Since the customer might want a clear indication of the project's dependencies, I recommend including the comment for clarity. Here is the final `requirements.txt` file:
+

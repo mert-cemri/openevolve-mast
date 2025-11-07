@@ -1,0 +1,1 @@
+Create a CLI PDF text extractor. Takes a PDF file path and extracts all text content, printing it to standard output or saving to a text file. (May use a library like pdftotext).

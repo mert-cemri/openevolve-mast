@@ -1,0 +1,2 @@
+# Specify the minimum Python version required for the project
+python_version >= 3.6
